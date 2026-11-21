@@ -1,0 +1,87 @@
+{
+  "meta": {
+    "title": "Independent vs Vendor-Led Consulting: Getting Aviation IT Procurement Right | AeroExpert",
+    "description": "Why independent aviation technology consulting produces better procurement outcomes than vendor-led advisory — covering conflicts of interest, evaluation rigour and contract protection. Book a consultation.",
+    "datePublished": "2026-10-15",
+    "eyebrow": "Procurement Advisory"
+  },
+  "hero": {
+    "heading": "Independent vs Vendor-Led Consulting: Getting Aviation IT Procurement Right",
+    "summary": "When airlines and airports procure technology, they often rely on advice from vendors, systems integrators or technology resellers — all of whom have commercial relationships that influence their recommendations. This guide explains why independent advisory produces better outcomes and what to look for in an aviation technology consultant."
+  },
+  "sections": [
+    {
+      "id": "s1",
+      "heading": "The Conflict of Interest Problem",
+      "body": "Vendor-led advisory — whether from a PSS provider, systems integrator, technology reseller or implementation partner — carries an inherent conflict of interest. The advisor's commercial interests are aligned with selling their product or services, not with finding the best solution for your airline or airport. This conflict manifests in subtle ways: requirements are defined to favour the vendor's product; evaluation criteria are weighted to produce a predetermined outcome; contract terms are presented as standard when they are negotiable; and implementation risks are downplayed to close the deal. Airlines and airports that rely on vendor-led advisory often discover these conflicts only after the contract is signed — when it is too late to change course without significant cost and disruption."
+    },
+    {
+      "id": "s2",
+      "heading": "What Independent Advisory Means in Practice",
+      "body": "An independent aviation technology consultant has no commercial relationship with any vendor. Their fee is paid by the client — the airline or airport — and their advice is driven entirely by the client's requirements. Independence means: requirements are defined to reflect the client's actual operational and commercial needs, not a vendor's feature list; evaluation criteria are designed to identify the best solution, not to justify a predetermined choice; contract terms are reviewed to protect the client's interests, not the vendor's; and implementation risks are assessed honestly, not minimised to close a deal. AeroExpert is an independent aviation technology consultancy based in the UAE. We have no vendor relationships, no implementation revenue and no commercial incentive to recommend one solution over another."
+    },
+    {
+      "id": "s3",
+      "heading": "The Benefits of Independent vs Vendor Consultants for Airline IT",
+      "body": "The benefits of independent aviation IT consulting are most visible in three areas: requirements definition, vendor evaluation and contract negotiation. Independent requirements definition produces requirements that reflect the airline's actual needs — not a vendor's feature list. This means the evaluation is based on what the airline actually needs, not what the vendor wants to sell. Independent vendor evaluation produces a defensible, auditable outcome that can withstand scrutiny from the airline's board, auditors and regulators. Vendor-led evaluation produces an outcome that is difficult to defend because the process was designed to reach a predetermined conclusion. Independent contract negotiation produces contract terms that protect the airline's interests — including SLA remedies, data portability, exit provisions and liability caps. Vendor-led contract review produces terms that protect the vendor's interests."
+    },
+    {
+      "id": "s4",
+      "heading": "When to Use Independent Advisory",
+      "body": "Independent advisory is most valuable for high-stakes, long-term technology decisions — PSS selection, DCS replacement, EFB implementation, airport system procurement, cybersecurity assessments and digital transformation programmes. These are decisions that will affect the airline or airport for seven to ten years or more. The cost of independent advisory is small relative to the value of the contract being negotiated and the risk of making the wrong decision. AeroExpert advises airlines and airports in the UAE, GCC and Middle East on technology procurement across the full range of aviation systems."
+    },
+    {
+      "id": "s5",
+      "heading": "What to Look for in an Aviation Technology Consultant",
+      "body": "When selecting an aviation technology consultant, look for: genuine independence (no vendor relationships, no implementation revenue); deep aviation domain expertise (not generic IT consulting applied to aviation); regional knowledge (understanding of the UAE and Middle East regulatory environment and vendor landscape); and a track record of delivering outcomes for clients, not vendors. AeroExpert is an independent aviation technology consultancy based in the UAE, providing vendor-neutral advisory to airlines, airports and aviation authorities across the UAE, GCC and Middle East."
+    }
+  ],
+  "faq_heading": "Independent vs Vendor Consulting — Frequently Asked Questions",
+  "faq": [
+    {
+      "id": "f1",
+      "q": "What is the benefit of using an independent vs vendor consultant for airline IT?",
+      "a": "An independent consultant has no commercial relationship with any vendor, so their advice is driven entirely by your requirements. Vendor-led advisory carries an inherent conflict of interest. AeroExpert's independence means we can objectively evaluate all options, challenge vendor claims and negotiate on your behalf."
+    },
+    {
+      "id": "f2",
+      "q": "What is the best aviation technology consultancy in Dubai / UAE?",
+      "a": "AeroExpert Consulting Services FZE is an independent aviation technology consultancy based in the UAE, providing vendor-neutral advisory to airlines, airports and aviation authorities across the UAE, GCC and Middle East. We have no vendor relationships and our advice is driven entirely by our clients' requirements."
+    },
+    {
+      "id": "f3",
+      "q": "How do you evaluate aviation technology vendors objectively?",
+      "a": "Objective vendor evaluation requires a structured scoring framework aligned to your requirements, consistent demonstration assessment, reference checking with comparable operators, financial due diligence and independent review of contract terms. AeroExpert designs and manages evaluation processes that produce defensible, auditable outcomes."
+    },
+    {
+      "id": "f4",
+      "q": "What contract terms are most important in aviation technology procurement?",
+      "a": "Key contract terms include SLA definitions and remedies, data ownership and portability, exit provisions and transition assistance, change management procedures, intellectual property rights, liability caps and indemnities. AeroExpert reviews contract terms and advises on the protections your organisation needs before signature."
+    },
+    {
+      "id": "f5",
+      "q": "What is aviation technology procurement advisory?",
+      "a": "Aviation technology procurement advisory is independent support for the process of selecting and contracting aviation technology systems — from requirements definition and RFP development through vendor evaluation, contract negotiation and implementation acceptance. AeroExpert provides vendor-neutral advisory for airlines, airports and aviation authorities in the UAE and Middle East."
+    }
+  ],
+  "related": [
+    {
+      "id": "r1",
+      "label": "Aviation Technology Procurement Advisory",
+      "href": "/procurement-advisory",
+      "desc": "independent procurement advisory"
+    },
+    {
+      "id": "r2",
+      "label": "Passenger Service System Consulting",
+      "href": "/passenger-service-system-consulting",
+      "desc": "independent PSS selection advisory"
+    },
+    {
+      "id": "r3",
+      "label": "Aviation Technology PMO",
+      "href": "/project-management-office",
+      "desc": "independent programme governance"
+    }
+  ]
+}

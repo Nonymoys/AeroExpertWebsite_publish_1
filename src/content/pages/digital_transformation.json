@@ -1,0 +1,50 @@
+{
+  "eyebrow": "Digital Transformation",
+  "title": "Aviation Digital Transformation Consulting",
+  "intro": "AeroExpert advises airlines, airports and aviation organisations on digital transformation — including airline digital transformation consulting that covers the full journey from initial maturity assessment and technology roadmap through legacy modernisation, data and analytics capability, AI use cases, process automation and transformation governance. Airline digital transformation requires a clear understanding of operational constraints, regulatory requirements and the technology landscape specific to the industry.",
+  "maturity_heading": "Digital Maturity Assessment",
+  "maturity_body": "Before committing to a transformation programme, organisations need an honest assessment of where they are today. AeroExpert conducts digital maturity assessments covering technology, data, processes, people and governance — producing a clear baseline and a prioritised improvement agenda.",
+  "roadmap_heading": "Airline Digital Transformation Roadmap",
+  "roadmap_body": "A technology roadmap translates business strategy into a sequenced plan for technology investment and change. AeroExpert develops aviation technology roadmaps that are grounded in operational reality, commercially prioritised and achievable within your organisation's capacity and budget.",
+  "legacy_heading": "Legacy-System Modernisation",
+  "legacy_body": "Many aviation organisations operate legacy systems that constrain their ability to innovate. AeroExpert advises on legacy modernisation strategy — whether to replace, wrap, migrate or retire — and supports the procurement and implementation of modern replacement systems.",
+  "data_heading": "Data & Analytics",
+  "data_body": "Aviation generates large volumes of operational, commercial and safety data. AeroExpert advises on data strategy, data governance, analytics platform selection, reporting and dashboard development, and the organisational capabilities needed to turn data into decisions.",
+  "ai_heading": "AI Use Cases",
+  "ai_body": "Artificial intelligence offers genuine value in aviation — from predictive maintenance and demand forecasting to disruption management and customer personalisation. AeroExpert advises on AI use case identification, feasibility assessment, vendor evaluation and the data and governance foundations needed for successful AI deployment.",
+  "automation_heading": "Process Automation",
+  "automation_body": "Process automation reduces manual effort, improves consistency and frees staff to focus on higher-value work. AeroExpert advises on automation opportunity identification, RPA and workflow automation platform selection, and the process redesign needed to maximise automation value.",
+  "governance_heading": "Transformation Governance",
+  "governance_body": "Large-scale digital transformation requires strong governance to stay on track. AeroExpert advises on transformation programme governance, benefits realisation, change management and the PMO structures needed to deliver complex multi-workstream programmes. See our Aviation Technology PMO page for more detail.",
+  "who_heading": "Who This Is For",
+  "who": "CEOs, CIOs, CDOs and transformation leaders at airlines, airports and aviation organisations embarking on or accelerating airline digital transformation consulting engagements or broader aviation digital transformation programmes.",
+  "closing": "To discuss your digital transformation requirements, contact us.",
+  "faq_heading": "Airline Digital Transformation — Frequently Asked Questions",
+  "faq": [
+    {
+      "id": "f1",
+      "q": "What does airline digital transformation mean in practice?",
+      "a": "Airline digital transformation is the process of replacing legacy systems, modernising data capabilities, automating manual processes and building new digital channels — to improve operational efficiency, commercial performance and passenger experience. In practice it covers legacy system replacement (PSS, DCS, ERP), data and analytics capability, AI use cases, process automation and the organisational change needed to sustain digital ways of working."
+    },
+    {
+      "id": "f2",
+      "q": "Where should an airline start its digital transformation?",
+      "a": "The right starting point depends on the airline's current maturity, strategic priorities and available capacity. AeroExpert recommends beginning with a digital maturity assessment — an honest baseline of where the organisation is today across technology, data, processes and people. This produces a prioritised roadmap that sequences investment for maximum impact within realistic constraints."
+    },
+    {
+      "id": "f3",
+      "q": "How long does airline digital transformation take?",
+      "a": "A full digital transformation programme for a mid-size airline typically spans three to five years, though individual workstreams — such as a data analytics platform or a specific system replacement — can deliver value within 12 to 18 months. AeroExpert helps airlines sequence transformation to deliver early wins while building towards the longer-term target architecture."
+    },
+    {
+      "id": "f4",
+      "q": "What are the biggest risks in aviation digital transformation?",
+      "a": "The most common risks are scope creep, underestimating the complexity of legacy system dependencies, insufficient change management, and selecting technology before defining requirements. AeroExpert's advisory approach addresses each of these: we define requirements first, assess the full integration landscape, and build governance structures that keep programmes on track."
+    },
+    {
+      "id": "f5",
+      "q": "What role does AI play in airline digital transformation?",
+      "a": "AI offers genuine value in aviation across demand forecasting, dynamic pricing, predictive maintenance, disruption management, crew optimisation and personalised customer experience. However, AI requires clean, well-governed data and clear use-case definition to deliver value. AeroExpert advises on AI use-case identification, feasibility assessment and the data foundations needed for successful deployment."
+    }
+  ]
+}

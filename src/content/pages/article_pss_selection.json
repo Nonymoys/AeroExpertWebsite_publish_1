@@ -1,0 +1,102 @@
+{
+  "meta": {
+    "title": "How to Choose the Right PSS for Your Airline | AeroExpert",
+    "description": "A practical guide to Passenger Service System selection for airlines — covering requirements definition, vendor shortlist, RFP development, evaluation criteria and contract review. Book a consultation.",
+    "datePublished": "2026-10-15",
+    "eyebrow": "Airline Technology"
+  },
+  "hero": {
+    "heading": "How to Choose the Right Passenger Service System for Your Airline",
+    "summary": "Choosing the right Passenger Service System (PSS) for your airline requires a structured process — defining requirements first, then assessing the market, developing a rigorous RFP, evaluating vendors objectively and reviewing contract terms independently. This guide covers each stage for airlines in the UAE and Middle East."
+  },
+  "sections": [
+    {
+      "id": "s1",
+      "heading": "Why PSS Selection Is the Most Consequential Technology Decision an Airline Makes",
+      "body": "The Passenger Service System underpins every commercial and operational function of an airline — reservations, inventory management, ticketing, check-in, boarding, loyalty and distribution. A PSS contract typically runs for seven to ten years. Selecting the wrong system, or selecting the right system through a poorly managed process, creates operational and commercial risk that is difficult and expensive to unwind. Airlines in the UAE and Middle East face a specific challenge: the regional market is served by a relatively small number of PSS vendors, each with different strengths, pricing models and implementation track records. The right choice for a full-service carrier is rarely the right choice for a low-cost or regional operator. Independent advisory — from a passenger service system consultant with no vendor relationships — is the most reliable way to navigate this complexity."
+    },
+    {
+      "id": "s2",
+      "heading": "Step 1: Define Your Requirements Before Looking at Vendors",
+      "body": "The most common mistake in PSS selection is starting with vendor demonstrations before requirements are defined. Demonstrations are designed to impress — they show the system at its best, not against your specific needs. Requirements must come first. Requirements should cover: functional requirements (reservations, inventory, ticketing, DCS, loyalty, NDC, ancillary revenue); non-functional requirements (availability, performance, scalability, security); integration requirements (GDS, NDC channels, revenue management, loyalty, airport systems); data migration requirements (PNR history, loyalty data, configuration); and commercial requirements (pricing model, SLA, exit provisions). Requirements should be developed with input from commercial, operations, IT and finance teams — not just IT. The PSS affects every part of the airline, and requirements that reflect only one function will produce a system that serves that function well and others poorly."
+    },
+    {
+      "id": "s3",
+      "heading": "Step 2: Assess the Market and Develop a Shortlist",
+      "body": "The PSS market is relatively concentrated — a small number of vendors serve the majority of commercial airlines globally. However, the right shortlist for your airline depends on your size, business model, network and integration landscape. A regional carrier with a simple network has different requirements from a full-service carrier with complex interline and codeshare arrangements. Market assessment should consider: vendor financial stability and ownership; product roadmap and investment in NDC and ONE Order; implementation track record with comparable airlines; regional presence and support capability in the UAE and Middle East; and total cost of ownership over the contract term."
+    },
+    {
+      "id": "s4",
+      "heading": "Step 3: Develop a Rigorous RFP",
+      "body": "The RFP is the foundation of the evaluation. A well-constructed RFP asks the right questions, enables meaningful comparison between vendors and protects your commercial interests. A poorly constructed RFP produces responses that are difficult to compare and gives vendors room to obscure weaknesses. An effective airline RFP for a PSS should include: detailed functional requirements with response format that enables scoring; integration requirements and API documentation requests; implementation methodology and timeline requirements; reference customer requirements; pricing model requirements (including total cost of ownership over the contract term); and contract terms requirements (SLA, exit provisions, data ownership, IP rights)."
+    },
+    {
+      "id": "s5",
+      "heading": "Step 4: Evaluate Vendors Objectively",
+      "body": "Vendor evaluation should follow a structured scoring process against your requirements. Demonstrations should be scripted — vendors should demonstrate specific scenarios relevant to your operations, not their standard sales presentation. Reference checks should be conducted with comparable airlines, not just the references the vendor provides. Technical evaluation should assess functional fit, integration capability, data migration approach and implementation methodology. Commercial evaluation should assess total cost of ownership, pricing model, SLA terms and contract risk. Both should be scored independently and combined into an overall assessment."
+    },
+    {
+      "id": "s6",
+      "heading": "Step 5: Review Contract Terms Independently",
+      "body": "PSS contracts are complex, long-term and heavily weighted in favour of the vendor in their standard form. Key terms to review include: SLA definitions and remedies (what happens when the system is unavailable); data ownership and portability (can you extract your data if you want to change vendor?); exit provisions and transition assistance (what support does the vendor provide at contract end?); change management procedures (how are changes to scope and pricing managed?); and liability caps and indemnities. Independent contract review — from an advisor with no vendor relationship — is essential. Vendor-provided legal review has an inherent conflict of interest. AeroExpert advises airlines on PSS contract terms and the commercial protections needed before signature."
+    },
+    {
+      "id": "s7",
+      "heading": "How Long Does PSS Selection Take?",
+      "body": "A structured PSS selection process — from requirements definition through contract signature — typically takes nine to eighteen months for a full-service airline. Regional carriers with simpler requirements can complete the process in six to twelve months. Rushing the process creates risk: poorly defined requirements, inadequate evaluation and weak contract terms are the most common causes of PSS implementation failures."
+    },
+    {
+      "id": "s8",
+      "heading": "The Case for Independent PSS Consulting",
+      "body": "PSS vendors, systems integrators and technology resellers all have commercial relationships that influence their advice. An independent airline PSS consultant — with no vendor relationships and no implementation revenue at stake — provides advice driven entirely by your airline's requirements. AeroExpert provides independent PSS consulting for airlines in the UAE, GCC and Middle East, covering the full selection lifecycle from requirements through contract signature."
+    }
+  ],
+  "faq_heading": "Frequently Asked Questions",
+  "faq": [
+    {
+      "id": "f1",
+      "q": "How do you choose a passenger service system for an airline?",
+      "a": "Choose a PSS by defining requirements first (functional, integration, commercial), then assessing the market, developing a rigorous RFP, evaluating vendors objectively against your requirements, conducting reference checks with comparable airlines, and reviewing contract terms independently. Never start with vendor demonstrations before requirements are defined."
+    },
+    {
+      "id": "f2",
+      "q": "How much does a PSS migration cost?",
+      "a": "PSS migration costs vary significantly depending on airline size, integration complexity, data migration requirements and vendor pricing. Costs include vendor implementation fees, internal staff time, third-party integration work, testing, training and contingency. AeroExpert advises on realistic cost estimation and contract structures that manage cost risk."
+    },
+    {
+      "id": "f3",
+      "q": "How long does PSS selection take?",
+      "a": "A structured PSS selection process typically takes nine to eighteen months for a full-service airline, from requirements definition through contract signature. Regional carriers with simpler requirements can complete the process in six to twelve months."
+    },
+    {
+      "id": "f4",
+      "q": "What is the benefit of using an independent PSS consultant?",
+      "a": "An independent PSS consultant has no commercial relationship with any vendor, so their advice is driven entirely by your airline's requirements. Vendor-led advisory carries an inherent conflict of interest. AeroExpert's independence means we can objectively evaluate all options, challenge vendor claims and negotiate on your behalf."
+    },
+    {
+      "id": "f5",
+      "q": "What is airline reservation system selection?",
+      "a": "Airline reservation system selection is the process of choosing a PSS — the platform that manages an airline's reservations, inventory, ticketing and distribution. It is one of the most consequential technology decisions an airline makes, with long-term commercial and operational implications. AeroExpert provides independent advisory on reservation system selection for airlines in the UAE, GCC and Middle East."
+    }
+  ],
+  "related": [
+    {
+      "id": "r1",
+      "label": "Passenger Service System Consulting",
+      "href": "/passenger-service-system-consulting",
+      "desc": "full PSS lifecycle advisory"
+    },
+    {
+      "id": "r2",
+      "label": "PSS Migration Consulting",
+      "href": "/pss-migration-consulting",
+      "desc": "migration planning, cutover and go-live"
+    },
+    {
+      "id": "r3",
+      "label": "Aviation Technology Procurement Advisory",
+      "href": "/procurement-advisory",
+      "desc": "RFP and vendor evaluation"
+    }
+  ]
+}

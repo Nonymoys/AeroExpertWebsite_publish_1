@@ -1,0 +1,78 @@
+{
+  "eyebrow": "Flight Operations",
+  "title": "Airline OCC & IOCC Consulting",
+  "intro": "The Operations Control Centre is the nerve centre of airline operations — responsible for flight following, disruption management, crew coordination, maintenance control and communication with airports and ATC. An effective OCC requires the right technology, well-designed workflows and capable controllers. AeroExpert provides independent advisory on OCC design, technology selection, platform implementation and workflow optimisation.",
+  "lifecycle": [
+    {
+      "id": "l1",
+      "phase": "OCC strategy",
+      "desc": "Define your OCC strategy — centralised vs distributed, integrated vs federated, technology investment priorities — aligned to your network, fleet and operational model."
+    },
+    {
+      "id": "l2",
+      "phase": "OCC design",
+      "desc": "Design the OCC physical environment, workstation layout, display systems, communication infrastructure and the organisational structure needed to operate it effectively."
+    },
+    {
+      "id": "l3",
+      "phase": "Platform selection",
+      "desc": "Evaluate OCC technology platforms — flight following, disruption management, crew management integration, maintenance control — against your requirements."
+    },
+    {
+      "id": "l4",
+      "phase": "Workflow design",
+      "desc": "Design OCC workflows for normal operations, irregular operations (IROPS), disruption management, crew coordination and communication with airports and ATC."
+    },
+    {
+      "id": "l5",
+      "phase": "Disruption management",
+      "desc": "Design disruption management processes and configure the technology tools needed to manage delays, cancellations, diversions and crew disruptions effectively."
+    },
+    {
+      "id": "l6",
+      "phase": "Systems integration",
+      "desc": "Oversee integration between OCC systems and PSS, crew management, maintenance, flight planning, weather and airport systems."
+    },
+    {
+      "id": "l7",
+      "phase": "IOCC transition",
+      "desc": "For airlines moving to an Integrated OCC model, advise on the integration of flight operations, crew and maintenance control into a single operational environment."
+    },
+    {
+      "id": "l8",
+      "phase": "Go-live support",
+      "desc": "Provide support through OCC go-live — managing issues, supporting controllers and coordinating vendor response."
+    }
+  ],
+  "who_heading": "Who This Is For",
+  "who": "Airlines designing or upgrading their Operations Control Centre — including Directors of Operations Control, VP Operations and IT Directors responsible for operational systems.",
+  "closing": "To discuss your OCC requirements, contact us.",
+  "faq_heading": "Airline OCC Consulting — Frequently Asked Questions",
+  "faq": [
+    {
+      "id": "f1",
+      "q": "What is an airline Operations Control Centre (OCC)?",
+      "a": "An airline Operations Control Centre (OCC) is the hub of airline operational control — responsible for flight following, disruption management, crew coordination, maintenance control and communication with airports and ATC. An effective OCC requires the right technology, well-designed workflows and capable controllers. AeroExpert provides independent advisory on OCC design, technology selection and workflow optimisation for airlines in the UAE and Middle East."
+    },
+    {
+      "id": "f2",
+      "q": "What is the difference between an OCC and an IOCC?",
+      "a": "An Integrated Operations Control Centre (IOCC) combines flight operations, crew management and maintenance control into a single operational environment — enabling faster, more coordinated decision-making during disruptions. Traditional OCCs may have these functions in separate teams or locations. AeroExpert advises on the transition to an IOCC model, including the technology, workflow and organisational changes required."
+    },
+    {
+      "id": "f3",
+      "q": "What technology does an airline OCC need?",
+      "a": "OCC technology typically includes a flight following system, disruption management tools, crew management integration, maintenance control interfaces, communication systems (ACARS, SELCAL, VHF), display systems and integration with PSS, airport systems and ATC. The specific technology required depends on the airline's network, fleet and operational model. AeroExpert advises on OCC technology strategy and platform selection."
+    },
+    {
+      "id": "f4",
+      "q": "How should airlines manage disruptions from the OCC?",
+      "a": "Effective disruption management requires clear processes, the right technology tools and well-trained controllers. The OCC must be able to quickly assess the impact of a disruption, identify recovery options, coordinate with crew management and maintenance, communicate with airports and passengers, and execute the recovery plan. AeroExpert advises on disruption management process design and the technology tools needed to support it."
+    },
+    {
+      "id": "f5",
+      "q": "What is OCC design consulting?",
+      "a": "OCC design consulting covers the physical environment, workstation layout, display systems, communication infrastructure and organisational structure of the Operations Control Centre. A well-designed OCC improves situational awareness, reduces controller workload and enables faster decision-making. AeroExpert advises on OCC design from initial concept through detailed specification and implementation oversight."
+    }
+  ]
+}

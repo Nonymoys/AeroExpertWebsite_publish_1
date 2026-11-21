@@ -1,0 +1,50 @@
+{
+  "eyebrow": "Airport Technology",
+  "title": "Airport Technology Consulting",
+  "intro": "AeroExpert advises airports, ground handlers and airlines on the full range of airport technology — from passenger processing and common-use systems through self-service kiosks, baggage technology, flight information displays and systems integration. Our advisory is independent and covers strategy, vendor selection, procurement and implementation oversight.",
+  "pax_heading": "Passenger Processing Systems",
+  "pax_body": "Passenger processing encompasses check-in, document verification, boarding and the systems that support the passenger journey from kerb to gate. AeroExpert advises on passenger processing strategy, system selection, workflow design and integration with airline DCS and PSS systems.",
+  "cuss_heading": "Common-Use & Check-in Systems",
+  "cuss_body": "Common-use terminal equipment (CUTE) and common-use self-service (CUSS) systems allow multiple airlines to share airport infrastructure. AeroExpert advises airports and ground handlers on CUTE/CUSS strategy, platform selection, IATA standards compliance and migration from legacy proprietary systems.",
+  "kiosk_heading": "Self-Service Kiosks",
+  "kiosk_body": "Self-service kiosks reduce check-in queues and improve passenger experience. AeroExpert advises on kiosk strategy, hardware and software selection, integration with DCS and baggage drop systems, and the operational processes needed to maximise self-service adoption.",
+  "baggage_heading": "Baggage Technology",
+  "baggage_body": "Baggage systems are critical to airport operations and passenger satisfaction. AeroExpert advises on baggage management system selection, baggage reconciliation, RFID tracking, integration with airline DCS and the operational processes that reduce mishandling.",
+  "fids_heading": "Flight Information Display Systems",
+  "fids_body": "FIDS provide real-time flight information to passengers and staff across the terminal. AeroExpert advises on FIDS strategy, platform selection, content management, integration with airline and airport operational systems and display network design.",
+  "api_heading": "API/PNR and Immigration Connectivity",
+  "api_body": "Advance Passenger Information (API) and Passenger Name Record (PNR) data exchange with immigration authorities is a regulatory requirement in many markets. AeroExpert advises on API/PNR system selection, data quality, regulatory compliance and integration with PSS and DCS systems.",
+  "integration_heading": "Airport Systems Integration",
+  "integration_body": "Airport technology systems must work together seamlessly. AeroExpert advises on airport systems integration architecture, Type-B messaging, AODB integration, data exchange standards and the governance needed to manage complex multi-vendor airport technology environments.",
+  "who_heading": "Who This Is For",
+  "who": "Airports, ground handling companies, airlines operating their own check-in infrastructure, and aviation authorities responsible for airport technology strategy and procurement.",
+  "closing": "To discuss your airport technology requirements, contact us.",
+  "faq_heading": "Airport Technology Consulting — Frequently Asked Questions",
+  "faq": [
+    {
+      "id": "f1",
+      "q": "What is airport technology consulting?",
+      "a": "Airport technology consulting covers the selection, procurement and implementation of the IT systems that support airport operations — including passenger processing, common-use check-in (CUPPS/CUSS), self-service kiosks, baggage management, FIDS, AODB and systems integration. AeroExpert provides independent advisory for airports and ground handlers in the UAE, GCC and Middle East."
+    },
+    {
+      "id": "f2",
+      "q": "What is CUPPS and why does it matter for airports?",
+      "a": "CUPPS (Common Use Passenger Processing Systems) is the IATA standard for common-use airport infrastructure that allows multiple airlines to share check-in desks, boarding gates and self-service kiosks. CUPPS replaces the older CUTE standard and provides a more modern, flexible architecture. AeroExpert advises airports on CUPPS strategy, platform selection and migration from legacy systems."
+    },
+    {
+      "id": "f3",
+      "q": "What smart airport technology trends are relevant to Middle East airports?",
+      "a": "Middle East airports are investing in biometric passenger processing, self-service bag drop, automated border control, RFID baggage tracking, A-CDM (Airport Collaborative Decision Making) and integrated AODB platforms. AeroExpert advises airports on technology strategy, vendor selection and implementation oversight for these initiatives."
+    },
+    {
+      "id": "f4",
+      "q": "How does airport technology integrate with airline systems?",
+      "a": "Airport systems must integrate with airline PSS and DCS systems for check-in, boarding and baggage data; with immigration authorities for API/PNR data exchange; and with the airport's own AODB for flight data. Integration architecture is one of the most complex aspects of airport technology programmes. AeroExpert advises on integration strategy, standards compliance and vendor management."
+    },
+    {
+      "id": "f5",
+      "q": "What is an AODB and why is it important?",
+      "a": "An Airport Operational Database (AODB) is the central data hub of an airport — aggregating flight, resource and operational data from all airport systems to provide a single source of truth for airport operations. AODB integration is critical for FIDS, resource management, A-CDM and operational reporting. AeroExpert advises on AODB selection, integration architecture and implementation oversight."
+    }
+  ]
+}

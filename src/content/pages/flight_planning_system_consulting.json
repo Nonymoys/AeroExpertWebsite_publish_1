@@ -1,0 +1,73 @@
+{
+  "eyebrow": "Flight Operations",
+  "title": "Airline Flight Planning System Consulting",
+  "intro": "The flight planning system is a critical operational tool — generating Operational Flight Plans, calculating fuel requirements, optimising routes and integrating weather and navigation data. Selecting the right flight planning system requires deep understanding of airline operations, regulatory requirements and the integration landscape. AeroExpert provides independent advisory on flight planning system selection and implementation.",
+  "lifecycle": [
+    {
+      "id": "l1",
+      "phase": "Requirements definition",
+      "desc": "Develop flight planning system requirements covering OFP production, fuel optimisation, ETOPS, performance calculation, weather integration, navigation data and dispatch workflows."
+    },
+    {
+      "id": "l2",
+      "phase": "Weather & navigation data",
+      "desc": "Evaluate weather data providers and navigation database suppliers — assessing data quality, update frequency, regulatory compliance and integration with the flight planning platform."
+    },
+    {
+      "id": "l3",
+      "phase": "OFP production",
+      "desc": "Define OFP format requirements, regulatory compliance needs and the customisation required to meet your airline's operational standards."
+    },
+    {
+      "id": "l4",
+      "phase": "Integration design",
+      "desc": "Design integration between the flight planning system and OCC, EFB, crew management, fuel management and performance calculation systems."
+    },
+    {
+      "id": "l5",
+      "phase": "Vendor selection",
+      "desc": "Evaluate flight planning system vendors against your requirements — including system capabilities, regulatory approvals, implementation track record and support."
+    },
+    {
+      "id": "l6",
+      "phase": "Implementation oversight",
+      "desc": "Provide PMO oversight of flight planning system implementation — managing vendor delivery, testing, regulatory approval and go-live."
+    },
+    {
+      "id": "l7",
+      "phase": "Dispatcher training",
+      "desc": "Develop training programmes for flight dispatchers and flight operations engineers on the new system."
+    }
+  ],
+  "who_heading": "Who This Is For",
+  "who": "Airlines evaluating or replacing their flight planning system — including Directors of Flight Operations, Chief Dispatchers, Flight Operations Engineers and IT Directors.",
+  "closing": "To discuss your flight planning system requirements, contact us.",
+  "faq_heading": "Airline Flight Planning System Consulting — Frequently Asked Questions",
+  "faq": [
+    {
+      "id": "f1",
+      "q": "What is a flight planning system and what does it do?",
+      "a": "A flight planning system generates the Operational Flight Plan (OFP) for each flight — calculating the optimal route, fuel requirements, performance data and weather information that the crew needs before departure. It integrates weather data, navigation databases, aircraft performance data and airspace restrictions to produce a compliant, optimised flight plan. AeroExpert provides independent advisory on flight planning system selection and implementation for airlines."
+    },
+    {
+      "id": "f2",
+      "q": "What should airlines consider when selecting a flight planning system?",
+      "a": "Key selection criteria include OFP production quality, fuel optimisation capability, ETOPS and performance calculation, weather data integration, navigation database update frequency, integration with EFB and OCC systems, regulatory compliance, total cost of ownership and vendor support. AeroExpert advises on requirements definition, vendor evaluation and implementation oversight for flight planning system selection."
+    },
+    {
+      "id": "f3",
+      "q": "How does a flight planning system integrate with EFB?",
+      "a": "EFB integration with the flight planning system allows the OFP to be delivered directly to the crew's EFB device, eliminating paper distribution and ensuring crew always have the current plan. Integration also enables performance data exchange, fuel uplift information and weather updates on the EFB. AeroExpert advises on flight planning-EFB integration architecture and the connectivity options available for different fleet types."
+    },
+    {
+      "id": "f4",
+      "q": "What is ETOPS and how does it affect flight planning system requirements?",
+      "a": "ETOPS (Extended-range Twin-engine Operational Performance Standards) allows twin-engine aircraft to fly routes that take them more than 60 minutes from a diversion airport. ETOPS operations require specific flight planning capabilities — including ETOPS route analysis, diversion airport assessment and fuel planning for ETOPS contingencies. Airlines operating ETOPS routes must ensure their flight planning system supports these requirements. AeroExpert advises on ETOPS flight planning requirements and system selection."
+    },
+    {
+      "id": "f5",
+      "q": "How does flight planning contribute to fuel efficiency?",
+      "a": "A good flight planning system can significantly reduce fuel burn by optimising routes, altitudes and speeds, identifying opportunities for Continuous Descent Operations (CDO), calculating optimal fuel loads and integrating real-time weather data to avoid headwinds. AeroExpert advises on flight planning system capabilities for fuel efficiency and the processes needed to translate system capabilities into measurable fuel savings."
+    }
+  ]
+}

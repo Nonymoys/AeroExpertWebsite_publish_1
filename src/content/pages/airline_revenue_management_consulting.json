@@ -1,0 +1,73 @@
+{
+  "eyebrow": "Airline Technology Consulting",
+  "title": "Airline Revenue Management Consulting",
+  "intro": "Revenue management is one of the most significant drivers of airline profitability. The combination of the right RM system, well-designed processes and capable analysts can materially improve yield and load factor. AeroExpert provides independent airline revenue management consulting — covering RM system selection, process design, organisational capability and the transition to modern offer/order-based approaches.",
+  "lifecycle": [
+    {
+      "id": "l1",
+      "phase": "RM strategy",
+      "desc": "Define your revenue management strategy — O&D vs leg-based, traditional vs offer/order, in-house vs outsourced — aligned to your airline's commercial model and network."
+    },
+    {
+      "id": "l2",
+      "phase": "System requirements",
+      "desc": "Develop RM system requirements covering forecasting, optimisation, pricing, inventory management, ancillary integration and reporting."
+    },
+    {
+      "id": "l3",
+      "phase": "Vendor evaluation",
+      "desc": "Evaluate RM system vendors against your requirements — including system capabilities, PSS integration, implementation track record and total cost of ownership."
+    },
+    {
+      "id": "l4",
+      "phase": "Process design",
+      "desc": "Design the RM processes — analyst workflows, pricing review cadence, inventory management procedures and performance reporting — that will maximise system effectiveness."
+    },
+    {
+      "id": "l5",
+      "phase": "Integration",
+      "desc": "Oversee integration between the RM system and PSS, pricing systems, distribution channels and business intelligence platforms."
+    },
+    {
+      "id": "l6",
+      "phase": "Implementation oversight",
+      "desc": "Provide PMO oversight of the RM system implementation — managing vendor delivery, testing and go-live."
+    },
+    {
+      "id": "l7",
+      "phase": "Optimisation",
+      "desc": "Review post-implementation performance and identify opportunities to improve RM effectiveness through better processes, analyst capability or system configuration."
+    }
+  ],
+  "who_heading": "Who This Is For",
+  "who": "Airlines evaluating or replacing their revenue management system, and airlines seeking to improve the effectiveness of their existing RM capability. Relevant for VP Revenue Management, Chief Commercial Officers and IT Directors.",
+  "closing": "To discuss your revenue management requirements, contact us.",
+  "faq_heading": "Airline Revenue Management Consulting — Frequently Asked Questions",
+  "faq": [
+    {
+      "id": "f1",
+      "q": "What is revenue management system consulting?",
+      "a": "Revenue management system consulting covers the selection, implementation and optimisation of the systems that manage airline seat inventory, pricing and demand forecasting. AeroExpert advises on RM system requirements, vendor evaluation, integration with PSS and NDC distribution channels, and the organisational processes needed to maximise system effectiveness — as an independent advisor with no vendor relationships."
+    },
+    {
+      "id": "f2",
+      "q": "What is the difference between O&D and leg-based revenue management?",
+      "a": "Leg-based revenue management optimises inventory on individual flight legs. Origin and Destination (O&D) revenue management optimises across the full itinerary, accounting for connecting traffic and the total revenue value of each passenger. O&D RM is more complex but typically delivers higher yields for network carriers. AeroExpert advises on RM strategy and the right approach for your airline's network and commercial model."
+    },
+    {
+      "id": "f3",
+      "q": "How does revenue management integrate with NDC and modern retailing?",
+      "a": "Modern airline retailing requires the RM system to support offer-based pricing — creating personalised offers that include ancillaries, bundles and dynamic pricing — rather than traditional class-based inventory management. This requires integration between the RM system, the offer management platform and NDC distribution channels. AeroExpert advises on the technology and process changes needed to support modern retailing."
+    },
+    {
+      "id": "f4",
+      "q": "What are the key criteria for selecting an airline revenue management system?",
+      "a": "Key RM system selection criteria include forecasting accuracy, optimisation methodology (O&D vs leg-based, traditional vs offer/order), PSS integration capability, ancillary revenue support, reporting and analytics, total cost of ownership, implementation track record and vendor roadmap. AeroExpert provides independent RM system selection advisory for airlines."
+    },
+    {
+      "id": "f5",
+      "q": "How can airlines improve their revenue management effectiveness?",
+      "a": "Revenue management effectiveness depends on the combination of the right system, well-designed processes and capable analysts. Common improvement opportunities include better demand forecasting, more granular inventory management, improved ancillary integration, better use of system automation and stronger analyst capability. AeroExpert advises on RM optimisation across all these dimensions."
+    }
+  ]
+}

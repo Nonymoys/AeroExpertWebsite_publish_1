@@ -1,0 +1,155 @@
+{
+  "hero": {
+    "eyebrow": "Flight Data Monitoring",
+    "heading": "Flight Data Monitoring & Analysis",
+    "body": "AeroExpert provides specialist Flight Data Monitoring (FDM) consulting services to help airlines improve safety, reduce operational risk and enhance fuel efficiency through proactive flight data analysis. We support airlines in establishing, improving and operating effective FDM programmes aligned with ICAO Annex 19 and industry best practice."
+  },
+  "intro": {
+    "heading": "Why Flight Data Monitoring Matters",
+    "body": "Flight Data Monitoring is one of the most powerful tools available to airlines for proactive safety management. By systematically analysing flight data, airlines can identify safety trends, monitor SOP compliance, detect exceedances and drive targeted improvements in flight operations — before incidents occur."
+  },
+  "categories": [
+    {
+      "id": "f1",
+      "title": "Flight Data Analysis",
+      "services": [
+        {
+          "id": "f1a",
+          "name": "QAR/FDR data analysis"
+        },
+        {
+          "id": "f1b",
+          "name": "Flight parameter monitoring"
+        },
+        {
+          "id": "f1c",
+          "name": "Exceedance detection"
+        },
+        {
+          "id": "f1d",
+          "name": "Trend monitoring"
+        },
+        {
+          "id": "f1e",
+          "name": "Safety event investigation"
+        }
+      ]
+    },
+    {
+      "id": "f2",
+      "title": "Safety Performance",
+      "services": [
+        {
+          "id": "f2a",
+          "name": "Flight risk identification"
+        },
+        {
+          "id": "f2b",
+          "name": "SOP compliance monitoring"
+        },
+        {
+          "id": "f2c",
+          "name": "Unstable approach analysis"
+        },
+        {
+          "id": "f2d",
+          "name": "Hard landing monitoring"
+        },
+        {
+          "id": "f2e",
+          "name": "Engine exceedance analysis"
+        },
+        {
+          "id": "f2f",
+          "name": "Flight path monitoring"
+        }
+      ]
+    },
+    {
+      "id": "f3",
+      "title": "Fuel Efficiency Monitoring",
+      "services": [
+        {
+          "id": "f3a",
+          "name": "Taxi fuel optimisation"
+        },
+        {
+          "id": "f3b",
+          "name": "Continuous Descent Operations"
+        },
+        {
+          "id": "f3c",
+          "name": "Reduced thrust takeoff analysis"
+        },
+        {
+          "id": "f3d",
+          "name": "Engine shutdown opportunities"
+        },
+        {
+          "id": "f3e",
+          "name": "APU usage analysis"
+        },
+        {
+          "id": "f3f",
+          "name": "Flight profile optimisation"
+        }
+      ]
+    },
+    {
+      "id": "f4",
+      "title": "FDM Programme Development",
+      "services": [
+        {
+          "id": "f4a",
+          "name": "ICAO Annex 19 support"
+        },
+        {
+          "id": "f4b",
+          "name": "SMS integration"
+        },
+        {
+          "id": "f4c",
+          "name": "FDM policy development"
+        },
+        {
+          "id": "f4d",
+          "name": "Event library configuration"
+        },
+        {
+          "id": "f4e",
+          "name": "KPI reporting"
+        }
+      ]
+    },
+    {
+      "id": "f5",
+      "title": "Reporting",
+      "services": [
+        {
+          "id": "f5a",
+          "name": "Monthly FDM reports"
+        },
+        {
+          "id": "f5b",
+          "name": "Executive safety dashboards"
+        },
+        {
+          "id": "f5c",
+          "name": "Flight operations analytics"
+        },
+        {
+          "id": "f5d",
+          "name": "Trend analysis"
+        },
+        {
+          "id": "f5e",
+          "name": "Corrective action recommendations"
+        },
+        {
+          "id": "f5f",
+          "name": "Management dashboards"
+        }
+      ]
+    }
+  ]
+}

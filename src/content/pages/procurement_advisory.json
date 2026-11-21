@@ -1,0 +1,50 @@
+{
+  "eyebrow": "Advisory & Delivery",
+  "title": "Aviation Technology Procurement Advisory",
+  "intro": "AeroExpert provides independent aviation technology procurement advisory — supporting airlines, airports and aviation organisations through the full procurement lifecycle from requirements definition through contract signature and implementation acceptance. Our independence means we have no vendor relationships that influence our recommendations.",
+  "requirements_heading": "Requirements Definition",
+  "requirements_body": "A procurement that starts with poorly defined requirements will produce a poor outcome regardless of the process that follows. AeroExpert works with your operational, commercial and technical teams to develop comprehensive, unambiguous requirements that reflect your organisation's real needs — not a vendor's feature list.",
+  "rfp_heading": "RFI/RFP Development",
+  "rfp_body": "AeroExpert develops RFI and RFP documents that ask the right questions, enable meaningful comparison between vendors and protect your organisation's commercial interests. We draw on deep knowledge of aviation technology markets to ensure your RFP reflects current market capabilities and realistic expectations.",
+  "shortlist_heading": "Vendor Shortlist",
+  "shortlist_body": "Market scanning and vendor shortlisting requires knowledge of the aviation technology vendor landscape. AeroExpert identifies the relevant vendors for your requirement, assesses their market position, financial stability and product roadmap, and produces a shortlist that reflects your specific needs.",
+  "technical_heading": "Technical Scoring",
+  "technical_body": "Technical evaluation requires structured scoring against your requirements, demonstration assessment, reference checking and technical due diligence. AeroExpert designs and manages the technical evaluation process, ensuring consistent, defensible scoring that can withstand scrutiny.",
+  "commercial_heading": "Commercial Scoring",
+  "commercial_body": "Commercial evaluation goes beyond headline price — it includes total cost of ownership, pricing model analysis, contract terms, SLA assessment and commercial risk. AeroExpert supports commercial evaluation and helps organisations understand the true cost and risk of each vendor's proposal.",
+  "contract_heading": "Contract Negotiation",
+  "contract_body": "Technology contracts are complex and long-term. AeroExpert provides advisory support during contract negotiation — reviewing contract terms, identifying risk, advising on SLAs, exit provisions, data ownership and the commercial protections your organisation needs.",
+  "acceptance_heading": "Implementation Acceptance",
+  "acceptance_body": "Procurement does not end at contract signature. AeroExpert supports implementation acceptance — reviewing delivery against contractual commitments, advising on acceptance testing criteria and supporting the governance needed to hold vendors accountable through delivery.",
+  "who_heading": "Who This Is For",
+  "who": "Airlines, airports, ground handlers and aviation authorities procuring significant aviation technology systems — including PSS, DCS, EFB, airport systems, cybersecurity platforms and IT infrastructure.",
+  "closing": "To discuss a procurement requirement, contact us.",
+  "faq_heading": "Aviation Technology Procurement — Frequently Asked Questions",
+  "faq": [
+    {
+      "id": "f1",
+      "q": "What is aviation technology procurement advisory?",
+      "a": "Aviation technology procurement advisory is independent support for the process of selecting and contracting aviation technology systems — from requirements definition and RFP development through vendor evaluation, contract negotiation and implementation acceptance. AeroExpert provides vendor-neutral advisory for airlines, airports and aviation authorities in the UAE and Middle East, with no commercial relationships that influence our recommendations."
+    },
+    {
+      "id": "f2",
+      "q": "What is the benefit of independent vs vendor-led procurement advisory?",
+      "a": "Vendor-led procurement advisory — from systems integrators, technology resellers or the vendors themselves — carries an inherent conflict of interest. An independent advisor has no preferred vendor and no commercial incentive to recommend one solution over another. AeroExpert's independence means we can objectively evaluate all options, challenge vendor claims, identify risks in proposals and negotiate contract terms that protect your organisation."
+    },
+    {
+      "id": "f3",
+      "q": "What should an airline RFP for a PSS or DCS include?",
+      "a": "An effective airline RFP for a PSS or DCS should include detailed functional requirements, integration requirements, data migration requirements, implementation methodology expectations, SLA and support requirements, pricing model requirements and contract terms expectations. AeroExpert develops RFP documents that ask the right questions, enable meaningful comparison and protect your commercial interests."
+    },
+    {
+      "id": "f4",
+      "q": "How do you evaluate aviation technology vendors objectively?",
+      "a": "Objective vendor evaluation requires a structured scoring framework aligned to your requirements, consistent demonstration assessment, reference checking with comparable operators, financial due diligence and independent review of contract terms. AeroExpert designs and manages evaluation processes that produce defensible, auditable outcomes."
+    },
+    {
+      "id": "f5",
+      "q": "What contract terms are most important in aviation technology procurement?",
+      "a": "Key contract terms include SLA definitions and remedies, data ownership and portability, exit provisions and transition assistance, change management procedures, intellectual property rights, liability caps and indemnities, and implementation milestone payments. AeroExpert reviews contract terms and advises on the protections your organisation needs before signature."
+    }
+  ]
+}

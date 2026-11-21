@@ -1,0 +1,112 @@
+{
+  "serviceGroups": [
+    {
+      "heading": "Airline Commercial Systems",
+      "items": [
+        {
+          "label": "Aviation Technology Consulting",
+          "href": "/aviation-technology-consulting",
+          "description": "PSS, DCS, revenue management, NDC & ONE Order, cargo and loyalty platform advisory for airlines.",
+          "id": "9ttAAdtuZKq8x4Tu_5cy9"
+        },
+        {
+          "label": "Passenger Service System Consulting",
+          "href": "/passenger-service-system-consulting",
+          "description": "PSS strategy, vendor selection, RFP development and migration advisory for airlines.",
+          "id": "pss-consulting-item"
+        },
+        {
+          "label": "Airline NDC & ONE Order Consulting",
+          "href": "/airline-ndc-one-order-consulting",
+          "description": "Modern airline retailing, NDC distribution and ONE Order implementation advisory.",
+          "id": "ndc-one-order-item"
+        },
+        {
+          "label": "Commercial and Digital Platforms",
+          "href": "/commercial-digital-platforms",
+          "description": "Digital commerce, loyalty platforms, ancillary revenue and passenger-facing digital solutions.",
+          "id": "rF1cyG4NxQZZusQenXseo"
+        }
+      ],
+      "id": "ITz2P5_v6Ow324Y3whqrF"
+    },
+    {
+      "heading": "Flight Operations",
+      "items": [
+        {
+          "label": "Flight Operations and Operational Systems",
+          "href": "/flight-operations-systems",
+          "description": "EFB, flight planning, crew management, OCC/IOCC and operational systems consulting.",
+          "id": "ayXubmzSfWNjuAIehlwpz"
+        },
+        {
+          "label": "EFB Consulting",
+          "href": "/efb-consulting",
+          "description": "Electronic Flight Bag selection, implementation, operational approval and administration advisory.",
+          "id": "efb-consulting-item"
+        },
+        {
+          "label": "Airline OCC & IOCC Consulting",
+          "href": "/airline-occ-consulting",
+          "description": "Operations Control Centre design, platform selection, workflows and disruption management.",
+          "id": "occ-consulting-item"
+        },
+        {
+          "label": "Flight Data Monitoring",
+          "href": "/flight-data-monitoring",
+          "description": "FDM programme design, data acquisition, event analysis, safety review and management reporting.",
+          "id": "SgWEzUXRwWQTQ8M1bdbE8"
+        }
+      ],
+      "id": "cP3K6-X_jEmIiZBMZHy15"
+    },
+    {
+      "heading": "Airport Technology",
+      "items": [
+        {
+          "label": "Airport Technology Solutions",
+          "href": "/airport-technology-solutions",
+          "description": "Passenger processing, common-use systems, self-service kiosks, baggage technology and FIDS.",
+          "id": "TZjsZVWhFNeAzO49ZP9fZ"
+        },
+        {
+          "label": "IT Infrastructure and Cloud",
+          "href": "/it-infrastructure-cloud",
+          "description": "Infrastructure modernisation, cloud migration strategy and technology architecture for aviation organisations.",
+          "id": "20-engWIRgyqq4gij_cqn"
+        }
+      ],
+      "id": "Ms0HFL6jeGhOzp2q2Fcme"
+    },
+    {
+      "heading": "Transformation & Governance",
+      "items": [
+        {
+          "label": "Cybersecurity and IT Governance",
+          "href": "/cybersecurity",
+          "description": "Aviation cybersecurity risk assessment, maturity assessment, IT governance and compliance advisory.",
+          "id": "PeRpnszsAQs55va_qesRJ"
+        },
+        {
+          "label": "Digital Transformation and Analytics",
+          "href": "/digital-transformation",
+          "description": "Digital maturity assessment, technology roadmap, legacy modernisation, data & analytics and AI use cases.",
+          "id": "SBj6aTbFU6na8fcixJ7R1"
+        },
+        {
+          "label": "Aviation Technology PMO",
+          "href": "/project-management-office",
+          "description": "Programme governance, vendor management, risk, testing, cutover and go-live for aviation technology programmes.",
+          "id": "hqNrcpPfCCIqppG6Uxn0A"
+        },
+        {
+          "label": "Procurement Advisory",
+          "href": "/procurement-advisory",
+          "description": "Requirements definition, RFI/RFP development, vendor scoring, contract negotiation and implementation acceptance.",
+          "id": "TDKBxEsuTRTACAfTL9BGL"
+        }
+      ],
+      "id": "TATor4HPkUBXK4E5ihxVw"
+    }
+  ]
+}

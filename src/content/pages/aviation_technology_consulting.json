@@ -1,0 +1,48 @@
+{
+  "eyebrow": "Airline Systems",
+  "title": "Airline Technology Consulting",
+  "intro": "AeroExpert provides independent airline technology consulting across the full range of commercial airline systems — from passenger service systems and departure control through revenue management, NDC retailing, cargo and loyalty platforms. As an airline technology consultant, we are vendor-neutral: our advice is driven entirely by your airline's requirements and commercial interests. Whether you need airline IT consulting on a specific system or end-to-end advisory across your technology estate, we provide the independent expertise airlines need to make the right decisions.",
+  "pss_heading": "Passenger Service System Consulting",
+  "pss_body": "The PSS is the most critical system in an airline's technology estate. AeroExpert advises airlines on PSS strategy, system selection, RFP development, vendor evaluation, contract review, integration architecture, data migration, UAT and cutover planning. We work with airlines at every stage of the PSS lifecycle — from initial strategy through go-live and post-implementation optimisation.",
+  "dcs_heading": "Departure Control System Advisory",
+  "dcs_body": "AeroExpert advises airlines on DCS selection, integration with PSS and airport systems, common-use deployment, migration from legacy platforms and operational readiness. We cover both airline-hosted and airport-provided DCS environments, including CUTE and CUSS configurations.",
+  "rm_heading": "Airline Revenue Management Systems",
+  "rm_body": "Revenue management is a significant driver of airline profitability. AeroExpert advises on RM system selection, requirements definition, vendor evaluation, integration with PSS and distribution channels, and the organisational processes needed to maximise system effectiveness. We cover both traditional O&D RM and modern offer/order-based approaches.",
+  "ndc_heading": "Airline Retailing, NDC & ONE Order",
+  "ndc_body": "Modern airline retailing requires a clear strategy for NDC distribution, offer and order management, and the transition from legacy PNR-based systems to ONE Order. AeroExpert advises airlines on retailing strategy, NDC implementation readiness, technology selection and the commercial and operational changes required.",
+  "cargo_heading": "Cargo & Loyalty Platforms",
+  "cargo_body": "AeroExpert advises airlines on cargo management system selection and integration, and on loyalty platform strategy, vendor selection and programme design. We help airlines evaluate whether to build, buy or outsource these capabilities, and support the procurement and implementation process.",
+  "selection_heading": "System Selection & Vendor Evaluation",
+  "selection_body": "Selecting the wrong airline technology system is an expensive mistake. AeroExpert supports airlines through the full vendor evaluation process: requirements definition, market scan, RFI/RFP development, technical and commercial scoring, reference checks, contract review and negotiation support. Our independence means we have no preferred vendors — only the right answer for your airline.",
+  "who_heading": "Who This Is For",
+  "who": "Airlines of all sizes — from start-ups and regional carriers to established full-service and low-cost operators — that are evaluating, replacing or optimising their core commercial technology systems. Also relevant for aviation investors, lessors and aviation authorities advising airlines on technology strategy.",
+  "closing": "Ready to discuss your airline technology requirements?",
+  "faq_heading": "Airline Technology Consulting — Frequently Asked Questions",
+  "faq": [
+    {
+      "id": "f1",
+      "q": "What is the benefit of using an independent airline technology consultant?",
+      "a": "An independent airline technology consultant has no commercial relationship with any vendor, so their advice is driven entirely by your airline's requirements. Vendor-led advisory — whether from a PSS provider, systems integrator or technology reseller — carries an inherent conflict of interest. AeroExpert's independence means we can objectively evaluate all options, challenge vendor claims and negotiate on your behalf."
+    },
+    {
+      "id": "f2",
+      "q": "How do airlines choose between PSS vendors?",
+      "a": "PSS selection requires a structured evaluation covering functional fit, integration capability, migration complexity, total cost of ownership, vendor financial stability, implementation track record and contract terms. AeroExpert supports the full PSS selection process — from requirements definition and RFP development through vendor demonstrations, reference checks and contract negotiation."
+    },
+    {
+      "id": "f3",
+      "q": "What is revenue management system consulting?",
+      "a": "Revenue management system (RMS) consulting covers the selection, implementation and optimisation of the systems that manage airline seat inventory, pricing and demand forecasting. AeroExpert advises on RMS requirements, vendor evaluation, integration with PSS and NDC distribution channels, and the organisational processes needed to maximise system effectiveness."
+    },
+    {
+      "id": "f4",
+      "q": "What airline technology systems does AeroExpert advise on?",
+      "a": "AeroExpert advises on the full range of commercial airline systems: Passenger Service Systems (PSS), Departure Control Systems (DCS), Revenue Management Systems (RMS), NDC and ONE Order platforms, loyalty systems, cargo management systems, ancillary revenue platforms and the integration between them. We also advise on flight operations systems, airport technology, IT infrastructure and cybersecurity."
+    },
+    {
+      "id": "f5",
+      "q": "How long does a PSS selection process take?",
+      "a": "A structured PSS selection process — from requirements definition through contract signature — typically takes nine to eighteen months for a full-service airline, depending on the complexity of requirements, the number of vendors evaluated and the airline's internal decision-making process. AeroExpert helps airlines manage the process efficiently without cutting corners that create risk."
+    }
+  ]
+}

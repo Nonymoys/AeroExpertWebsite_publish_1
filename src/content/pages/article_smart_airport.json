@@ -1,0 +1,97 @@
+{
+  "meta": {
+    "title": "Smart Airport Technology Trends in the Middle East | AeroExpert",
+    "description": "An overview of smart airport technology trends in the Middle East — covering biometric processing, self-service, CUPPS/CUSS, A-CDM, AODB and the technology investments driving airport modernisation. Book a consultation.",
+    "datePublished": "2026-10-15",
+    "eyebrow": "Airport Technology"
+  },
+  "hero": {
+    "heading": "Smart Airport Technology Trends in the Middle East",
+    "summary": "Middle East airports are investing heavily in smart airport technology — from biometric passenger processing and self-service bag drop to A-CDM and integrated AODB platforms. This guide covers the key technology trends and what they mean for airports and airlines in the region."
+  },
+  "sections": [
+    {
+      "id": "s1",
+      "heading": "The Middle East Airport Technology Landscape",
+      "body": "The Middle East is home to some of the world's most ambitious airport development programmes. Dubai, Abu Dhabi, Riyadh, Doha and other regional hubs are investing in new terminals, expanded capacity and advanced technology to support growing passenger volumes and maintain competitive advantage. Smart airport technology is central to these investments — enabling airports to process more passengers with greater efficiency, improve the passenger experience and reduce operational costs. AeroExpert provides independent airport technology consulting for airports and airlines in the UAE, GCC and Middle East."
+    },
+    {
+      "id": "s2",
+      "heading": "Biometric Passenger Processing",
+      "body": "Biometric passenger processing — using facial recognition, iris scanning or fingerprint identification to verify passenger identity — is one of the most significant technology trends in Middle East airports. Biometric systems can eliminate the need for passengers to present physical documents at multiple touchpoints, reducing queue times and improving the passenger experience. Several UAE and GCC airports have implemented or are implementing biometric processing at check-in, security, immigration and boarding. Key considerations for airports implementing biometric systems include: data privacy compliance (biometric data is sensitive personal data subject to UAE data protection requirements); integration with immigration and border control systems; passenger consent and opt-out provisions; and fallback procedures for passengers who cannot be biometrically verified."
+    },
+    {
+      "id": "s3",
+      "heading": "Self-Service and Common-Use Systems",
+      "body": "Self-service check-in kiosks, self-service bag drop and common-use passenger processing systems (CUPPS) are standard in modern Middle East airports. CUPPS — the IATA standard that replaced the older CUTE standard — allows multiple airlines to share airport infrastructure, reducing costs and improving flexibility. Self-service adoption rates in the Middle East have grown significantly, driven by passenger preference for faster, more convenient processing and airline incentives to shift passengers away from staffed check-in desks. AeroExpert advises airports and airlines on CUPPS strategy, platform selection, self-service kiosk deployment and the operational processes needed to maximise self-service adoption."
+    },
+    {
+      "id": "s4",
+      "heading": "Airport Collaborative Decision Making (A-CDM)",
+      "body": "Airport Collaborative Decision Making (A-CDM) is a process that improves the efficiency of airport operations by sharing real-time information between airlines, ground handlers, ATC and the airport. A-CDM enables more accurate departure time prediction, better gate and stand management, reduced taxi times and improved on-time performance. Several Middle East airports have implemented or are implementing A-CDM. The technology foundation for A-CDM is an integrated Airport Operational Database (AODB) that aggregates flight, resource and operational data from all airport systems. AeroExpert advises airports on A-CDM strategy, AODB selection and the integration architecture needed to support collaborative decision making."
+    },
+    {
+      "id": "s5",
+      "heading": "RFID Baggage Tracking",
+      "body": "RFID baggage tracking — using radio frequency identification tags to track bags through the airport — significantly reduces baggage mishandling rates compared to traditional barcode scanning. IATA Resolution 753 requires airlines to track baggage at key points in the journey. Several Middle East airports and airlines have implemented RFID baggage tracking, achieving measurable reductions in mishandled bags and the associated costs of delayed bag delivery and passenger compensation. AeroExpert advises airports and airlines on RFID baggage tracking strategy, system selection and integration with DCS and baggage management systems."
+    },
+    {
+      "id": "s6",
+      "heading": "Flight Information Display Systems (FIDS)",
+      "body": "Modern FIDS go beyond simple departure and arrival boards — they provide real-time flight information, wayfinding, advertising and operational data to passengers and staff across the terminal. FIDS integration with the AODB ensures that information is accurate and up to date. Middle East airports are investing in high-resolution display networks, interactive wayfinding kiosks and mobile FIDS applications that extend the information experience beyond the terminal. AeroExpert advises airports on FIDS strategy, platform selection, content management and integration with operational systems."
+    },
+    {
+      "id": "s7",
+      "heading": "The Role of Independent Advisory in Airport Technology",
+      "body": "Airport technology programmes are complex, multi-vendor and operationally sensitive. Independent advisory — from a consultant with no vendor relationships — is the most reliable way to navigate technology selection, procurement and implementation. AeroExpert provides independent airport technology consulting for airports and airlines in the UAE, GCC and Middle East, covering strategy, vendor selection, procurement and implementation oversight."
+    }
+  ],
+  "faq_heading": "Smart Airport Technology — Frequently Asked Questions",
+  "faq": [
+    {
+      "id": "f1",
+      "q": "What is airport technology consulting?",
+      "a": "Airport technology consulting covers the selection, procurement and implementation of the IT systems that support airport operations — including passenger processing, CUPPS/CUSS, self-service kiosks, baggage management, FIDS, AODB and systems integration. AeroExpert provides independent advisory for airports and ground handlers in the UAE, GCC and Middle East."
+    },
+    {
+      "id": "f2",
+      "q": "What is CUPPS and why does it matter for airports?",
+      "a": "CUPPS (Common Use Passenger Processing Systems) is the IATA standard for common-use airport infrastructure that allows multiple airlines to share check-in desks, boarding gates and self-service kiosks. CUPPS replaces the older CUTE standard and provides a more modern, flexible architecture."
+    },
+    {
+      "id": "f3",
+      "q": "What is A-CDM and how does it benefit airports?",
+      "a": "Airport Collaborative Decision Making (A-CDM) improves airport operational efficiency by sharing real-time information between airlines, ground handlers, ATC and the airport. Benefits include more accurate departure time prediction, better gate and stand management, reduced taxi times and improved on-time performance."
+    },
+    {
+      "id": "f4",
+      "q": "What is an AODB and why is it important?",
+      "a": "An Airport Operational Database (AODB) is the central data hub of an airport — aggregating flight, resource and operational data from all airport systems to provide a single source of truth for airport operations. AODB integration is critical for FIDS, resource management, A-CDM and operational reporting."
+    },
+    {
+      "id": "f5",
+      "q": "What smart airport technology trends are relevant to Middle East airports?",
+      "a": "Middle East airports are investing in biometric passenger processing, self-service bag drop, automated border control, RFID baggage tracking, A-CDM and integrated AODB platforms. AeroExpert advises airports on technology strategy, vendor selection and implementation oversight for these initiatives."
+    }
+  ],
+  "related": [
+    {
+      "id": "r1",
+      "label": "Airport Technology Consulting",
+      "href": "/airport-technology-solutions",
+      "desc": "full airport technology advisory"
+    },
+    {
+      "id": "r2",
+      "label": "Aviation IT Infrastructure & Cloud",
+      "href": "/it-infrastructure-cloud",
+      "desc": "IT infrastructure for airports"
+    },
+    {
+      "id": "r3",
+      "label": "Aviation Technology Procurement Advisory",
+      "href": "/procurement-advisory",
+      "desc": "vendor selection for airport technology"
+    }
+  ]
+}

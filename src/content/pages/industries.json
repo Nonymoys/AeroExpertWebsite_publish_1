@@ -1,0 +1,64 @@
+{
+  "hero": {
+    "eyebrow": "Industries",
+    "heading": "Aviation Sectors We Serve",
+    "body": "AeroExpert works with a broad range of aviation organisations — from major commercial airlines and international airports to MRO providers, aviation authorities and technology vendors. Our consulting services are tailored to the specific requirements of each sector."
+  },
+  "sectors": [
+    {
+      "id": "ind1",
+      "title": "Commercial Airlines",
+      "description": "Full-service and low-cost carriers seeking to modernise systems, improve operational efficiency and drive digital transformation across commercial and operational functions."
+    },
+    {
+      "id": "ind2",
+      "title": "Regional Airlines",
+      "description": "Regional and commuter operators requiring cost-effective technology solutions and practical advisory support tailored to smaller-scale operations."
+    },
+    {
+      "id": "ind3",
+      "title": "Cargo Airlines",
+      "description": "Cargo carriers and integrators seeking to optimise cargo management systems, operational technology and digital capabilities."
+    },
+    {
+      "id": "ind4",
+      "title": "Charter Operators",
+      "description": "Charter and non-scheduled operators requiring flexible technology solutions and advisory support for their specific operational model."
+    },
+    {
+      "id": "ind5",
+      "title": "Business Aviation",
+      "description": "Business aviation operators and management companies seeking technology solutions appropriate to their scale and operational requirements."
+    },
+    {
+      "id": "ind6",
+      "title": "Airports",
+      "description": "Airport operators seeking to modernise passenger processing systems, improve operational efficiency and deliver digital transformation programmes."
+    },
+    {
+      "id": "ind7",
+      "title": "Ground Handling Companies",
+      "description": "Ground handlers requiring technology advisory support for passenger handling systems, operational platforms and digital transformation."
+    },
+    {
+      "id": "ind8",
+      "title": "Aviation Authorities",
+      "description": "Civil aviation authorities and regulatory bodies requiring technology advisory support for oversight systems and digital transformation."
+    },
+    {
+      "id": "ind9",
+      "title": "MRO Organisations",
+      "description": "Maintenance, repair and overhaul organisations seeking to modernise maintenance information systems and operational technology."
+    },
+    {
+      "id": "ind10",
+      "title": "Flight Training Organisations",
+      "description": "Flight training organisations and aviation academies requiring technology advisory support for training management and operational systems."
+    },
+    {
+      "id": "ind11",
+      "title": "Aviation Technology Providers",
+      "description": "Aviation technology vendors and system integrators requiring independent advisory support for product development, market positioning and customer engagement."
+    }
+  ]
+}

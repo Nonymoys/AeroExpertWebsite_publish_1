@@ -1,0 +1,203 @@
+{
+  "eyebrow": "Flight Operations and Safety",
+  "title": "Flight Data Monitoring (FDM) Consulting",
+  "intro": "AeroExpert supports airlines in establishing and improving Flight Data Monitoring programmes that convert recorded flight data into practical safety, compliance and fuel-efficiency insights. A well-run FDM programme gives safety and operations teams the evidence they need to identify risk, monitor trends and take corrective action before incidents occur. We work with airlines at all stages — from initial programme setup through to ongoing programme improvement.",
+  "workflow_heading": "How AeroExpert Implements an FDM Programme",
+  "workflow_body": "A successful FDM programme follows a structured implementation process. AeroExpert guides airlines through each stage to ensure the programme delivers reliable, actionable safety data from the outset.",
+  "workflow_steps": [
+    {
+      "id": "w1",
+      "step": "Data acquisition",
+      "desc": "Establish QAR/FDR data collection processes, ground station connectivity and data transfer to the analysis platform."
+    },
+    {
+      "id": "w2",
+      "step": "Event definitions",
+      "desc": "Define the event library — exceedance thresholds, parameter limits and safety events — aligned to aircraft type, operations and regulatory requirements."
+    },
+    {
+      "id": "w3",
+      "step": "Validation",
+      "desc": "Validate data quality, event triggering accuracy and system configuration against known flight profiles before operational use."
+    },
+    {
+      "id": "w4",
+      "step": "Analysis",
+      "desc": "Conduct systematic flight data analysis, identifying exceedances, trends and safety-relevant patterns across the fleet."
+    },
+    {
+      "id": "w5",
+      "step": "Safety review",
+      "desc": "Present findings to the safety review board, classify events by severity and determine corrective action priorities."
+    },
+    {
+      "id": "w6",
+      "step": "Corrective action",
+      "desc": "Support the development and tracking of corrective actions — training interventions, procedure changes or technical rectification."
+    },
+    {
+      "id": "w7",
+      "step": "Trending",
+      "desc": "Monitor event rates and safety KPIs over time to identify improving or deteriorating trends across the fleet."
+    },
+    {
+      "id": "w8",
+      "step": "Management reporting",
+      "desc": "Produce regular management reports that communicate FDM programme performance, safety trends and programme effectiveness to accountable managers."
+    }
+  ],
+  "capabilities_heading": "FDM Capabilities",
+  "subsections": [
+    {
+      "id": "s1",
+      "heading": "Flight Data Analysis",
+      "items": [
+        {
+          "id": "i1",
+          "text": "QAR and FDR data review"
+        },
+        {
+          "id": "i2",
+          "text": "Flight parameter monitoring"
+        },
+        {
+          "id": "i3",
+          "text": "Exceedance detection"
+        },
+        {
+          "id": "i4",
+          "text": "Trend monitoring"
+        },
+        {
+          "id": "i5",
+          "text": "Safety event investigation"
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "heading": "Safety Performance",
+      "items": [
+        {
+          "id": "i1",
+          "text": "Flight risk identification"
+        },
+        {
+          "id": "i2",
+          "text": "SOP compliance monitoring"
+        },
+        {
+          "id": "i3",
+          "text": "Unstable approach analysis"
+        },
+        {
+          "id": "i4",
+          "text": "Hard landing monitoring"
+        },
+        {
+          "id": "i5",
+          "text": "Engine exceedance analysis"
+        },
+        {
+          "id": "i6",
+          "text": "Flight path monitoring"
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "heading": "Fuel and Operational Efficiency",
+      "items": [
+        {
+          "id": "i1",
+          "text": "Taxi fuel optimisation"
+        },
+        {
+          "id": "i2",
+          "text": "Continuous Descent Operations analysis"
+        },
+        {
+          "id": "i3",
+          "text": "Reduced-thrust take-off monitoring"
+        },
+        {
+          "id": "i4",
+          "text": "Engine shutdown opportunities"
+        },
+        {
+          "id": "i5",
+          "text": "APU usage analysis"
+        },
+        {
+          "id": "i6",
+          "text": "Flight profile optimisation"
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "heading": "FDM Programme Development",
+      "items": [
+        {
+          "id": "i1",
+          "text": "FDM governance and policy"
+        },
+        {
+          "id": "i2",
+          "text": "Event library configuration"
+        },
+        {
+          "id": "i3",
+          "text": "SMS integration"
+        },
+        {
+          "id": "i4",
+          "text": "ICAO Annex 19 alignment support"
+        },
+        {
+          "id": "i5",
+          "text": "KPI definition"
+        },
+        {
+          "id": "i6",
+          "text": "Management dashboards"
+        },
+        {
+          "id": "i7",
+          "text": "Monthly FDM reporting and corrective-action tracking"
+        }
+      ]
+    }
+  ],
+  "who_heading": "Who this is for",
+  "who": "This service is relevant to Safety Managers, Flight Operations Directors, Accountable Managers, and Quality and Compliance teams at airlines that operate or are establishing an FDM programme.",
+  "closing": "To discuss a specific requirement, contact us.",
+  "faq_heading": "Flight Data Monitoring — Frequently Asked Questions",
+  "faq": [
+    {
+      "id": "f1",
+      "q": "What is Flight Data Monitoring (FDM) and why do airlines need it?",
+      "a": "Flight Data Monitoring (FDM) — also known as Flight Operational Quality Assurance (FOQA) — is the systematic analysis of recorded flight data to identify safety risks, monitor SOP compliance and improve operational efficiency. ICAO Annex 19 requires commercial air transport operators to establish an FDM programme as part of their Safety Management System (SMS). Beyond regulatory compliance, FDM provides airlines with objective evidence of flight crew performance, enabling proactive safety management and measurable fuel savings."
+    },
+    {
+      "id": "f2",
+      "q": "Is FDM mandatory for airlines?",
+      "a": "Yes. ICAO Annex 19 requires commercial air transport operators of aeroplanes with a maximum certificated take-off weight exceeding 27,000 kg to establish an FDM programme. Many national aviation authorities — including the GCAA in the UAE — have implemented this requirement in their national regulations. Some authorities also require FDM for smaller aircraft types."
+    },
+    {
+      "id": "f3",
+      "q": "What data does an FDM programme analyse?",
+      "a": "FDM programmes analyse data recorded by the Quick Access Recorder (QAR) or Flight Data Recorder (FDR), covering hundreds of flight parameters including airspeed, altitude, pitch, roll, engine parameters, control inputs and system states. Analysis identifies exceedances of defined thresholds, unstable approaches, hard landings, SOP deviations and fuel-efficiency opportunities."
+    },
+    {
+      "id": "f4",
+      "q": "How does FDM support fuel efficiency?",
+      "a": "FDM data reveals fuel-efficiency opportunities that are invisible without systematic analysis — including sub-optimal climb and descent profiles, excessive taxi fuel use, opportunities for reduced-thrust take-offs, Continuous Descent Operations (CDO) compliance and APU usage patterns. Airlines that actively use FDM for fuel management typically achieve measurable reductions in fuel burn per flight."
+    },
+    {
+      "id": "f5",
+      "q": "What is the difference between FDM and FOQA?",
+      "a": "FDM (Flight Data Monitoring) and FOQA (Flight Operational Quality Assurance) refer to the same concept — the systematic use of recorded flight data for safety and operational improvement. FDM is the term used predominantly in ICAO documentation and by European and Middle Eastern operators; FOQA is the term used in North America. The underlying process and objectives are identical."
+    }
+  ]
+}

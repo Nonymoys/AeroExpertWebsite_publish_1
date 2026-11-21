@@ -1,0 +1,125 @@
+{
+  "logo/horizontal": {
+    "mediaType": "logo",
+    "currentUrl": "/airo-assets/uploads/logo-horizontal-b62d1f4d.png",
+    "lightSurfaceUrl": "/airo-assets/uploads/logo-horizontal-b62d1f4d.png",
+    "naturalOrientation": "horizontal"
+  },
+  "hero/background": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/b170ffac08118e8473314142fff43cb9.jpg"
+  },
+  "logo/primary": {
+    "mediaType": "logo",
+    "currentUrl": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/b2897ef5-d135-42ee-adf3-79844ca5a2f1/session/ceef2df9-6852-4702-9be9-0c438490e9a0/transparent-935210f6-7eea-4ec4-99e0-ed66595d061a/logo-logo.png",
+    "lightSurfaceUrl": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/b2897ef5-d135-42ee-adf3-79844ca5a2f1/session/f1d8bc2c-15fb-4e15-9f80-3687a1d904bb/transparent-e5219d4d-379b-4764-8489-c223c4d76e74/logo-logo.png",
+    "darkSurfaceUrl": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/b2897ef5-d135-42ee-adf3-79844ca5a2f1/session/d672fcb1-5101-4cd1-9b06-1961f8ceb6ec/transparent-674d9593-e08e-4631-ba42-1242697f41ad/logo-logo.png"
+  },
+  "logo/vertical": {
+    "mediaType": "logo",
+    "currentUrl": "/airo-assets/uploads/logo-vertical-b0bab9c0.png",
+    "lightSurfaceUrl": "/airo-assets/uploads/logo-vertical-b0bab9c0.png",
+    "naturalOrientation": "vertical"
+  },
+  "logo/favicon": {
+    "mediaType": "logo",
+    "currentUrl": "/airo-assets/uploads/logo-favicon-4d64cbd7.png",
+    "lightSurfaceUrl": "/airo-assets/uploads/logo-favicon-4d64cbd7.png"
+  },
+  "hero/background-video": {
+    "mediaType": "video",
+    "currentUrl": "/airo-assets/uploads/hero-background-video-5fd4d2c5.mp4"
+  },
+  "uploads/hero-xiy1687760-1788938956764-file-rmybbqxsk3": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/uploads-hero-xiy1687760-1788938956764-file-rmybbqxsk3-d35388b2.jpg"
+  },
+  "uploads/hero-xiy1687760-1788938957548-file-9ajobllfk6": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/uploads-hero-xiy1687760-1788938957548-file-9ajobllfk6-5a8a1843.jpg"
+  },
+  "uploads/hero-xiy1687760-1788938957549-file-tbostib6lf": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/uploads-hero-xiy1687760-1788938957549-file-tbostib6lf-9a8837db.png"
+  },
+  "uploads/hero-xiy1687760-1788938957553-file-meixfj6usp": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/uploads-hero-xiy1687760-1788938957553-file-meixfj6usp-6674db6e.png"
+  },
+  "services/aviation-technology-consulting": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/services-aviation-technology-consulting-f1d270c4.jpg"
+  },
+  "services/project-management-office": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/services-project-management-office-81ff04f1.jpg"
+  },
+  "services/flight-data-monitoring": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/services-flight-data-monitoring-3123dfbb.png"
+  },
+  "services/procurement-advisory": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/services-procurement-advisory-5a8a1843.jpg"
+  },
+  "services/it-infrastructure-cloud": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/services-it-infrastructure-cloud-13cf2dea.jpg"
+  },
+  "services/cybersecurity": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/services-cybersecurity-bcaebd2e.jpg"
+  },
+  "services/commercial-digital-platforms": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/services-commercial-digital-platforms-d35388b2.jpg"
+  },
+  "services/flight-operations-systems": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/services-flight-operations-systems-fbc6f2a6.jpg"
+  },
+  "services/airport-technology-solutions": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/services-airport-technology-solutions-7eb13189.png"
+  },
+  "services/digital-transformation": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/services-digital-transformation-6674db6e.png"
+  },
+  "uploads/hero-xiy1687760-1788938956764-file-rmybbqxsk3-2": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/uploads-hero-xiy1687760-1788938956764-file-rmybbqxsk3-2-d35388b2.jpg"
+  },
+  "uploads/hero-xiy1687760-1788938956767-file-zpjnpq6yyq": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/uploads-hero-xiy1687760-1788938956767-file-zpjnpq6yyq-13cf2dea.jpg"
+  },
+  "uploads/hero-xiy1687760-1788938956765-file-8e2tzl-npv": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/uploads-hero-xiy1687760-1788938956765-file-8e2tzl-npv-81ff04f1.jpg"
+  },
+  "uploads/hero-xiy1687760-1788938957548-file-9ajobllfk6-2": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/uploads-hero-xiy1687760-1788938957548-file-9ajobllfk6-2-5a8a1843.jpg"
+  },
+  "uploads/hero-xiy1687760-1788938956760-file-eiitmfhmer": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/uploads-hero-xiy1687760-1788938956760-file-eiitmfhmer-f1d270c4.jpg"
+  },
+  "uploads/hero-xiy1687760-1788938957549-file-tbostib6lf-2": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/uploads-hero-xiy1687760-1788938957549-file-tbostib6lf-2-9a8837db.png"
+  },
+  "uploads/hero-xiy1687760-1788938957552-file-ti2r1jitoz": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/uploads-hero-xiy1687760-1788938957552-file-ti2r1jitoz-f20b308e.png"
+  },
+  "uploads/hero-xiy1687760-1788938957553-file-meixfj6usp-2": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/uploads-hero-xiy1687760-1788938957553-file-meixfj6usp-2-6674db6e.png"
+  },
+  "homepage/promo-video": {
+    "mediaType": "video",
+    "currentUrl": "/airo-assets/uploads/homepage-promo-video-a154e1c5.mp4"
+  }
+}

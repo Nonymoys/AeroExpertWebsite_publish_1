@@ -1,0 +1,83 @@
+{
+  "eyebrow": "Airline Technology Consulting",
+  "title": "Airline PSS Migration Consulting",
+  "intro": "Migrating from one Passenger Service System to another is one of the highest-risk programmes an airline can undertake. A PSS migration touches every part of the airline — commercial, operations, IT, finance and customer service. AeroExpert provides independent PSS migration consulting to help airlines plan, manage and execute migrations safely and successfully.",
+  "lifecycle": [
+    {
+      "id": "l1",
+      "phase": "Migration strategy",
+      "desc": "Define the migration approach — big bang vs phased, route-by-route vs fleet-wide — and the programme structure needed to deliver it."
+    },
+    {
+      "id": "l2",
+      "phase": "Readiness assessment",
+      "desc": "Assess organisational readiness: data quality, integration dependencies, staff training needs and operational change requirements."
+    },
+    {
+      "id": "l3",
+      "phase": "Data migration planning",
+      "desc": "Plan the migration of PNRs, ticketed bookings, loyalty data, configuration and historical data — including data cleansing and validation."
+    },
+    {
+      "id": "l4",
+      "phase": "Integration testing",
+      "desc": "Test all integrations between the new PSS and connected systems — DCS, revenue management, loyalty, GDS, NDC channels and operational systems."
+    },
+    {
+      "id": "l5",
+      "phase": "Parallel running",
+      "desc": "Where required, plan and manage parallel running of old and new systems to validate data integrity and operational performance."
+    },
+    {
+      "id": "l6",
+      "phase": "Staff training",
+      "desc": "Develop training plans for reservations, ticketing, check-in, revenue management and IT teams — ensuring operational readiness before cutover."
+    },
+    {
+      "id": "l7",
+      "phase": "Cutover planning",
+      "desc": "Develop detailed cutover runbooks, rehearsal schedules, go/no-go criteria and contingency plans for the migration weekend."
+    },
+    {
+      "id": "l8",
+      "phase": "Go-live support",
+      "desc": "Provide on-site or remote hypercare support through the migration — managing issues, coordinating vendor response and supporting operational teams."
+    },
+    {
+      "id": "l9",
+      "phase": "Post-migration stabilisation",
+      "desc": "Monitor system performance, resolve post-migration issues and ensure the airline stabilises on the new platform."
+    }
+  ],
+  "who_heading": "Who This Is For",
+  "who": "Airlines planning or executing a PSS migration — including programme directors, CIOs, VP Technology and IT project managers responsible for the migration programme.",
+  "closing": "To discuss your PSS migration requirements, contact us.",
+  "faq_heading": "PSS Migration — Frequently Asked Questions",
+  "faq": [
+    {
+      "id": "f1",
+      "q": "How long does a PSS migration take?",
+      "a": "A PSS migration for a mid-size airline typically takes twelve to twenty-four months from contract signature to go-live, depending on the complexity of the airline's operations, the number of integrated systems, data migration complexity and the vendor's implementation methodology. Some large full-service carriers have taken longer. AeroExpert helps airlines develop realistic migration timelines and manage the programme to plan."
+    },
+    {
+      "id": "f2",
+      "q": "What is the biggest risk in a PSS migration?",
+      "a": "The biggest risks in a PSS migration are data migration failures (corrupted or incomplete booking and loyalty data), integration failures (connected systems not working correctly after cutover), operational readiness failures (staff not trained or processes not ready), and vendor delivery delays. Cutover weekend is the highest-risk moment — a failed cutover can ground an airline. AeroExpert's PSS migration consulting addresses each of these through structured planning, rigorous testing and independent programme governance."
+    },
+    {
+      "id": "f3",
+      "q": "What is a PSS migration cutover and how is it planned?",
+      "a": "PSS migration cutover is the transition from the legacy system to the new platform — typically executed over a weekend when traffic is lowest. Cutover planning covers the detailed sequence of activities, data migration steps, system freeze periods, parallel running arrangements, go/no-go criteria and contingency procedures. AeroExpert develops detailed cutover runbooks, manages rehearsal exercises and provides on-site support through the migration weekend."
+    },
+    {
+      "id": "f4",
+      "q": "How much does a PSS migration cost?",
+      "a": "PSS migration costs vary significantly depending on the airline's size, the complexity of the migration, the number of integrated systems, data migration requirements and the vendor's pricing model. Costs include vendor implementation fees, internal staff time, third-party integration work, testing, training and contingency. AeroExpert advises on realistic cost estimation and helps airlines structure contracts to manage cost risk."
+    },
+    {
+      "id": "f5",
+      "q": "What is parallel running in a PSS migration?",
+      "a": "Parallel running is the period during which both the legacy and new PSS operate simultaneously — allowing the airline to validate that the new system is producing correct results before fully cutting over. Not all PSS migrations include parallel running (it is complex and expensive), but it can reduce risk for airlines with complex operations or data migration challenges. AeroExpert advises on whether parallel running is appropriate for your migration and how to manage it effectively."
+    }
+  ]
+}

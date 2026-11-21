@@ -1,0 +1,45 @@
+{
+  "eyebrow": "Industries",
+  "title": "Aviation Technology Consulting for Airports",
+  "intro": "Airports operate complex technology environments that must serve multiple airlines, ground handlers and passengers simultaneously. AeroExpert advises airports on passenger processing technology, common-use systems, baggage technology, flight information displays, IT infrastructure, cybersecurity and digital transformation — with deep understanding of the multi-stakeholder airport environment.",
+  "services_heading": "How We Support Airports",
+  "services": [
+    {
+      "id": "s1",
+      "title": "Passenger Processing Systems",
+      "desc": "CUTE, CUSS, self-service kiosks and check-in system strategy, selection and implementation.",
+      "href": "/airport-technology-solutions"
+    },
+    {
+      "id": "s2",
+      "title": "Baggage Technology",
+      "desc": "Baggage management, reconciliation, RFID tracking and mishandling reduction.",
+      "href": "/airport-technology-solutions"
+    },
+    {
+      "id": "s3",
+      "title": "IT Infrastructure & Cloud",
+      "desc": "Airport IT infrastructure modernisation, cloud migration and high-availability architecture.",
+      "href": "/it-infrastructure-cloud"
+    },
+    {
+      "id": "s4",
+      "title": "Aviation Cybersecurity",
+      "desc": "Specialist aviation cybersecurity risk assessment, maturity assessment and IT governance for airports.",
+      "href": "/cybersecurity"
+    },
+    {
+      "id": "s5",
+      "title": "Digital Transformation",
+      "desc": "Airport digital maturity assessment, technology roadmap and legacy modernisation.",
+      "href": "/digital-transformation"
+    },
+    {
+      "id": "s6",
+      "title": "Technology Procurement",
+      "desc": "Independent procurement advisory for airport technology systems.",
+      "href": "/procurement-advisory"
+    }
+  ],
+  "closing": "To discuss your airport's technology requirements, contact us."
+}

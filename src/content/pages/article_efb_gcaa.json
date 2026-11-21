@@ -1,0 +1,97 @@
+{
+  "meta": {
+    "title": "EFB Implementation and GCAA Approval in the UAE | AeroExpert",
+    "description": "A practical guide to Electronic Flight Bag implementation and GCAA operational approval for airlines in the UAE — covering EFB strategy, hardware selection, approval process and go-live. Book a consultation.",
+    "datePublished": "2026-10-15",
+    "eyebrow": "Flight Operations"
+  },
+  "hero": {
+    "heading": "Electronic Flight Bag (EFB) Implementation and GCAA Approval in the UAE",
+    "summary": "The Electronic Flight Bag has become a standard tool in airline flight operations across the UAE and Middle East. This guide covers EFB implementation from strategy through GCAA operational approval — for airlines operating under UAE General Civil Aviation Authority oversight."
+  },
+  "sections": [
+    {
+      "id": "s1",
+      "heading": "What Is an Electronic Flight Bag?",
+      "body": "An Electronic Flight Bag (EFB) is a portable electronic device used by flight crew to replace paper charts, manuals, performance calculations and other operational documents. EFBs improve safety by ensuring crew always have current, accurate information; improve efficiency by eliminating paper distribution and manual calculations; and reduce costs by removing the need to print, distribute and update paper documents. In the UAE, EFB use has grown significantly as airlines operating under GCAA oversight have recognised the operational and safety benefits. AeroExpert provides independent EFB consulting for airlines in the UAE, GCC and Middle East."
+    },
+    {
+      "id": "s2",
+      "heading": "EFB Classes: What Airlines Need to Know",
+      "body": "EFBs are classified by how they are installed and used in the aircraft. Class 1 EFBs are portable devices not attached to the aircraft. Class 2 EFBs are mounted on a fixed mount in the cockpit but are not part of the aircraft type design. Class 3 EFBs are installed as part of the aircraft type design and require an STC. Most airlines use Class 2 EFBs — tablet devices on approved mounts. The class determines the regulatory approval pathway and the documentation required for GCAA submission."
+    },
+    {
+      "id": "s3",
+      "heading": "GCAA EFB Approval: The Process",
+      "body": "In the UAE, EFB operational approval is granted by the General Civil Aviation Authority (GCAA). The approval process requires the airline to develop an EFB programme document, conduct a risk assessment for each EFB application, complete validation testing and submit the documentation to the GCAA for review and approval. The GCAA may conduct an audit of the airline's EFB programme before granting approval. Airlines should allow sufficient time for the approval process. AeroExpert advises airlines on GCAA EFB approval readiness and the documentation required for submission."
+    },
+    {
+      "id": "s4",
+      "heading": "EFB Application Selection",
+      "body": "Common EFB applications include: electronic charts (approach plates, airport diagrams, en-route charts); electronic manuals (Aircraft Flight Manual, Quick Reference Handbook, Minimum Equipment List, Standard Operating Procedures); performance calculation; weight and balance; weather; fuel planning; and EFB administration tools. Application selection should be driven by operational requirements, not vendor marketing. AeroExpert advises on EFB application requirements and software platform selection for airlines in the UAE and Middle East."
+    },
+    {
+      "id": "s5",
+      "heading": "EFB Hardware Selection",
+      "body": "EFB hardware selection involves choosing the tablet device, mounting solution and power management approach. Key considerations include: device durability and reliability in the cockpit environment; screen readability in direct sunlight; battery life for long-haul operations; mount compatibility with aircraft type; and MDM capability for fleet-wide software management. AeroExpert advises on hardware selection and the testing needed to validate hardware performance in the operational environment."
+    },
+    {
+      "id": "s6",
+      "heading": "EFB Integration with Flight Planning Systems",
+      "body": "EFB integration with the flight planning system allows the Operational Flight Plan (OFP) to be delivered directly to the crew's EFB device, eliminating paper distribution and ensuring crew always have the current plan. Integration also enables performance data exchange, fuel uplift information and weather updates on the EFB. AeroExpert advises on EFB-flight planning integration architecture and the connectivity options available for different fleet types."
+    },
+    {
+      "id": "s7",
+      "heading": "EFB Implementation Timeline",
+      "body": "EFB implementation typically takes six to eighteen months from strategy definition to operational approval, depending on the complexity of the programme, the number of aircraft types, the applications being implemented and the GCAA's review timeline. Key phases include: strategy and requirements; hardware and software selection; development and testing; GCAA approval submission and review; pilot training; and go-live. AeroExpert helps airlines develop realistic implementation plans and manage the process efficiently."
+    }
+  ],
+  "faq_heading": "EFB and GCAA Approval — Frequently Asked Questions",
+  "faq": [
+    {
+      "id": "f1",
+      "q": "What is an Electronic Flight Bag and how does an airline get it approved in the UAE?",
+      "a": "An EFB is a portable electronic device used by flight crew to replace paper charts, manuals and performance calculations. In the UAE, EFB operational approval is granted by the GCAA. The approval process requires an EFB programme document, risk assessment, validation testing and GCAA submission."
+    },
+    {
+      "id": "f2",
+      "q": "What is the difference between EFB Class 1, Class 2 and Class 3?",
+      "a": "Class 1 EFBs are portable devices not attached to the aircraft. Class 2 EFBs are mounted on a fixed mount in the cockpit but not part of the aircraft type design. Class 3 EFBs are installed as part of the aircraft type design and require an STC. Most airlines use Class 2 EFBs."
+    },
+    {
+      "id": "f3",
+      "q": "How long does EFB implementation take?",
+      "a": "EFB implementation typically takes six to eighteen months from strategy definition to operational approval, depending on programme complexity, fleet types, applications and GCAA review timeline."
+    },
+    {
+      "id": "f4",
+      "q": "What EFB applications do airlines typically use?",
+      "a": "Common EFB applications include electronic charts, electronic manuals (AFM, QRH, MEL), performance calculation, weight and balance, weather, fuel planning and EFB administration tools."
+    },
+    {
+      "id": "f5",
+      "q": "How does EFB integrate with flight planning systems?",
+      "a": "EFB integration with flight planning allows the OFP to be delivered directly to the crew's EFB device, eliminating paper distribution. Integration also enables performance data exchange, fuel uplift information and weather updates on the EFB."
+    }
+  ],
+  "related": [
+    {
+      "id": "r1",
+      "label": "EFB Consulting",
+      "href": "/efb-consulting",
+      "desc": "full EFB implementation lifecycle advisory"
+    },
+    {
+      "id": "r2",
+      "label": "Flight Operations Systems Consulting",
+      "href": "/flight-operations-systems",
+      "desc": "full flight operations technology advisory"
+    },
+    {
+      "id": "r3",
+      "label": "Flight Planning System Consulting",
+      "href": "/flight-planning-system-consulting",
+      "desc": "EFB integration with flight planning"
+    }
+  ]
+}

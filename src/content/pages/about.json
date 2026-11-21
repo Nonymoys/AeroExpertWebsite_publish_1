@@ -1,0 +1,47 @@
+{
+  "hero": {
+    "eyebrow": "About Us",
+    "heading": "Independent Aviation Technology Consultancy",
+    "body": "AeroExpert Consulting Services FZE is a specialist aviation technology and digital transformation consultancy based in the UAE. We provide independent, expert advisory services to airlines, airports and aviation organisations seeking to modernise operations, improve efficiency and maximise return on technology investments."
+  },
+  "mission": {
+    "heading": "Our Mission",
+    "body": "We help aviation organisations make better technology decisions. Our mission is to provide independent, business-driven advice that bridges the gap between operational aviation knowledge and enterprise technology — delivering practical recommendations that create measurable value."
+  },
+  "pillars": [
+    {
+      "id": "p1",
+      "title": "Aviation Technology Expertise",
+      "body": "Deep knowledge of airline systems, airport technology, flight operations platforms and aviation software across the full technology stack."
+    },
+    {
+      "id": "p2",
+      "title": "Strategic Technology Advisory",
+      "body": "Independent strategic advice on technology investment, vendor selection, system architecture and digital transformation roadmaps."
+    },
+    {
+      "id": "p3",
+      "title": "Implementation Support",
+      "body": "Hands-on support through the full technology lifecycle — from requirements definition and procurement through to deployment and optimisation."
+    },
+    {
+      "id": "p4",
+      "title": "Operational Aviation Knowledge",
+      "body": "Practical understanding of how aviation operations work and what technology must deliver to support safe, efficient and commercial operations."
+    },
+    {
+      "id": "p5",
+      "title": "Independent Recommendations",
+      "body": "Vendor-neutral advice focused entirely on your organisation's objectives — no commercial relationships that could compromise the quality of our guidance."
+    },
+    {
+      "id": "p6",
+      "title": "Business-Driven Technology Decisions",
+      "body": "Technology recommendations grounded in commercial and operational outcomes, not technology for its own sake."
+    }
+  ],
+  "approach": {
+    "heading": "Our Approach",
+    "body": "We work as a trusted extension of your team. We take time to understand your organisation, your objectives and your constraints before developing recommendations. Our advice is practical, actionable and grounded in real-world aviation experience."
+  }
+}

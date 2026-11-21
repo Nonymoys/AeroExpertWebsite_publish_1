@@ -1,0 +1,2 @@
+<!-- Social sharing / OG image for AeroExpert Consulting -->
+<!-- This file intentionally minimal — the og-image.png in this folder is the real asset -->

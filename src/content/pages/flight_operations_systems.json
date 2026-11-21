@@ -1,0 +1,48 @@
+{
+  "eyebrow": "Flight Operations",
+  "title": "Flight Operations Systems Consulting",
+  "intro": "AeroExpert provides flight operations systems consulting for airlines — covering the full range of flight operations technology from Electronic Flight Bag selection and implementation through flight planning systems, crew management, OCC/IOCC platforms, aircraft technical records, maintenance systems and fuel management. Our advisory is independent and covers the complete technology lifecycle from requirements through go-live.",
+  "efb_heading": "Electronic Flight Bag Consulting",
+  "efb_body": "EFB implementation involves hardware selection, software platform evaluation, operational approval readiness, EFB administration processes, aircraft connectivity and integration with flight planning and performance systems. AeroExpert advises airlines on EFB strategy, vendor selection, regulatory approval preparation and operational deployment. See our dedicated EFB Consulting page for the full lifecycle.",
+  "fp_heading": "Flight Planning & Dispatch Systems",
+  "fp_body": "Flight planning system selection requires careful evaluation of requirements including weather and navigation data integration, OFP production, fuel optimisation, ETOPS and performance calculation. AeroExpert advises on requirements definition, vendor evaluation, integration with OCC and crew systems, and implementation oversight.",
+  "occ_heading": "OCC & IOCC Technology",
+  "occ_body": "The Operations Control Centre is the nerve centre of airline operations. AeroExpert advises on OCC technology strategy, platform selection, workflow design, flight following, disruption management systems and integration with crew, maintenance and airport systems. See our dedicated Airline OCC & IOCC Consulting page for more detail.",
+  "crew_heading": "Crew Management Systems",
+  "crew_body": "Crew management is one of the most complex and costly areas of airline operations. AeroExpert advises on crew management system selection, requirements definition, integration with PSS and OCC, rostering optimisation and implementation governance.",
+  "tech_heading": "Aircraft Technical Records & Maintenance Systems",
+  "tech_body": "AeroExpert advises airlines on aircraft technical records systems, MRO platform selection, integration with OEM systems and regulatory compliance requirements for digital records.",
+  "fuel_heading": "Fuel Management Systems",
+  "fuel_body": "Fuel is typically an airline's largest cost. AeroExpert advises on fuel management system selection, integration with flight planning and finance systems, and the data processes needed to drive fuel efficiency improvements.",
+  "who_heading": "Who This Is For",
+  "who": "Airlines and aviation operators evaluating, replacing or optimising their flight operations technology — including Directors of Flight Operations, Chief Pilots, VP Operations and IT Directors responsible for operational systems.",
+  "closing": "To discuss your flight operations technology requirements, contact us.",
+  "faq_heading": "Flight Operations Systems — Frequently Asked Questions",
+  "faq": [
+    {
+      "id": "f1",
+      "q": "What is flight operations systems consulting?",
+      "a": "Flight operations systems consulting covers the selection, implementation and integration of the technology that supports airline flight operations — including Electronic Flight Bags (EFB), flight planning and dispatch systems, crew management systems, Operations Control Centre (OCC) platforms, aircraft technical records and fuel management systems. AeroExpert provides independent advisory across all these areas for airlines in the UAE and Middle East."
+    },
+    {
+      "id": "f2",
+      "q": "What is an OCC and what technology does it need?",
+      "a": "An Operations Control Centre (OCC) is the hub of airline operational control — managing flight following, disruption management, crew control, maintenance coordination and communications with aircraft and airports. OCC technology includes flight following systems, disruption management tools, crew control interfaces and integration with PSS, crew management and maintenance systems. AeroExpert advises on OCC technology strategy, platform selection and workflow design."
+    },
+    {
+      "id": "f3",
+      "q": "How do crew management systems integrate with other airline systems?",
+      "a": "Crew management systems must integrate with the PSS (for passenger load data), the OCC (for disruption management), the EFB platform (for crew document distribution), payroll systems and regulatory reporting tools. Integration complexity is one of the key evaluation criteria in crew management system selection. AeroExpert advises on integration architecture and the contractual protections needed to ensure vendor delivery."
+    },
+    {
+      "id": "f4",
+      "q": "What should airlines consider when selecting a flight planning system?",
+      "a": "Key considerations include weather and navigation data integration, OFP production quality, fuel optimisation capability, ETOPS and performance calculation, integration with EFB and OCC systems, and the vendor's update cycle for navigation databases and regulatory changes. AeroExpert advises on requirements definition, vendor evaluation and implementation oversight for flight planning system selection."
+    },
+    {
+      "id": "f5",
+      "q": "What is the link between flight operations systems and fuel efficiency?",
+      "a": "Flight planning systems, FDM programmes and fuel management systems together provide the data and tools airlines need to drive fuel efficiency. Flight planning optimises routes and profiles; FDM identifies inefficient practices in actual operations; fuel management tracks consumption against plan. AeroExpert advises on the integration of these systems and the processes needed to translate data into measurable fuel savings."
+    }
+  ]
+}

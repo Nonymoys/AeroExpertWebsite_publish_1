@@ -1,0 +1,54 @@
+{
+  "name": "AeroExpert Consulting Services FZE",
+  "tagline": "Transforming Aviation Through Technology",
+  "description": "AeroExpert Consulting Services FZE is a specialist aviation technology and digital transformation consultancy helping airlines, airports and aviation organisations modernise operations, improve efficiency, strengthen cybersecurity and maximise return on technology investments.",
+  "location": "UAE",
+  "email": "info@aeroexpertconsulting.com",
+  "nav": [
+    {
+      "label": "Home",
+      "href": "/",
+      "id": "ka8QM4Gc0ymfGZ5bBL9PR"
+    },
+    {
+      "label": "About",
+      "href": "/about",
+      "id": "K5oQJYAyTfBdBvE5bY5_1"
+    },
+    {
+      "label": "Services",
+      "href": "/services",
+      "id": "YqjAhqDwTkOzpn6tFJeV7"
+    },
+    {
+      "label": "Flight Data Monitoring",
+      "href": "/flight-data-monitoring",
+      "id": "1CFMLZdDCyT_e8zYr7G_e"
+    },
+    {
+      "label": "Cybersecurity",
+      "href": "/cybersecurity",
+      "id": "MAuXSoFfdATWP0bKNjJb_"
+    },
+    {
+      "label": "Digital Transformation",
+      "href": "/digital-transformation",
+      "id": "4PTbFEECFZGYxlOfituGB"
+    },
+    {
+      "label": "Industries",
+      "href": "/industries",
+      "id": "dNsne2nJmKUPKwiLwDVHg"
+    },
+    {
+      "label": "Consulting Approach",
+      "href": "/consulting-approach",
+      "id": "JqnSOFbUr4-Jv5W6dBLaj"
+    },
+    {
+      "label": "Contact",
+      "href": "/contact",
+      "id": "9VP9RajICTsL1LTVHk4qM"
+    }
+  ]
+}

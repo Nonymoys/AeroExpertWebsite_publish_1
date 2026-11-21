@@ -1,0 +1,61 @@
+{
+  "eyebrow": "Industries",
+  "title": "Aviation Technology Consulting for Regional Airlines",
+  "intro": "Regional airlines face distinct technology challenges — smaller IT teams, tighter budgets, less leverage with vendors, and the need to integrate with larger alliance partners and codeshare carriers. AeroExpert understands the regional airline environment and provides practical, proportionate advisory that reflects the realities of operating at regional scale.",
+  "challenges_heading": "Technology Challenges Specific to Regional Airlines",
+  "challenges": [
+    {
+      "id": "c1",
+      "title": "PSS selection at regional scale",
+      "desc": "Regional airlines need PSS solutions that are cost-effective, operationally appropriate and capable of supporting codeshare and interline requirements without enterprise-scale complexity."
+    },
+    {
+      "id": "c2",
+      "title": "EFB implementation with limited IT resource",
+      "desc": "EFB implementation requires regulatory approval, hardware management and ongoing administration — challenging for airlines with small IT teams."
+    },
+    {
+      "id": "c3",
+      "title": "Vendor leverage",
+      "desc": "Regional airlines have less commercial leverage with major technology vendors. Independent advisory helps level the playing field in negotiations."
+    },
+    {
+      "id": "c4",
+      "title": "Integration with larger carriers",
+      "desc": "Codeshare, interline and alliance technology requirements add complexity to PSS, DCS and distribution system decisions."
+    },
+    {
+      "id": "c5",
+      "title": "FDM programme establishment",
+      "desc": "Many regional airlines are establishing FDM programmes for the first time — requiring guidance on data acquisition, event definitions and safety review processes."
+    }
+  ],
+  "services_heading": "How We Support Regional Airlines",
+  "services": [
+    {
+      "id": "s1",
+      "title": "PSS Consulting",
+      "desc": "Vendor-neutral PSS strategy and selection for regional carriers.",
+      "href": "/passenger-service-system-consulting"
+    },
+    {
+      "id": "s2",
+      "title": "EFB Consulting",
+      "desc": "EFB implementation from strategy through regulatory approval and go-live.",
+      "href": "/efb-consulting"
+    },
+    {
+      "id": "s3",
+      "title": "Flight Data Monitoring",
+      "desc": "FDM programme establishment and improvement for regional operators.",
+      "href": "/flight-data-monitoring"
+    },
+    {
+      "id": "s4",
+      "title": "Procurement Advisory",
+      "desc": "Independent procurement advisory to improve vendor leverage and contract terms.",
+      "href": "/procurement-advisory"
+    }
+  ],
+  "closing": "To discuss your regional airline's technology requirements, contact us."
+}

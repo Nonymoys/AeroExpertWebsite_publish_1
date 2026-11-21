@@ -1,0 +1,40 @@
+{
+  "hero": {
+    "eyebrow": "Fare Builder",
+    "headline_line1": "Set the right price.",
+    "headline_line2": "See where it lands.",
+    "lead": "The tool below pulls live market fares from airline distribution feeds for any route you specify. Enter your margin rules and it shows you the resulting price — and exactly where that price sits against everything else currently selling on that route."
+  },
+  "how_it_works": {
+    "eyebrow": "How it works",
+    "heading": "Three steps, no guesswork",
+    "steps": [
+      {
+        "id": "step-01",
+        "num": "01",
+        "heading": "Live fares from distribution feeds",
+        "body": "Fares are pulled in real time from airline distribution systems for the route and travel dates you specify. There is no cached data and no manual input — what you see is what is selling right now."
+      },
+      {
+        "id": "step-02",
+        "num": "02",
+        "heading": "Your margin rules applied automatically",
+        "body": "The tool applies your configured margin rules per channel — wholesale, retail, corporate, or direct. Adjustments are calculated automatically so you are not doing arithmetic in a spreadsheet."
+      },
+      {
+        "id": "step-03",
+        "num": "03",
+        "heading": "Position against the full market",
+        "body": "The result shows where your priced fare sits against the full range of fares currently available on that route — market low, midpoint, and high. You see the competitive position before you commit."
+      }
+    ]
+  },
+  "access": {
+    "eyebrow": "Access",
+    "heading": "Request agent access",
+    "intro": "Access is available to accredited travel agencies and airline revenue teams. Submit your details and we will be in touch within one business day.",
+    "success_title": "Request received",
+    "success_body": "We will review your details and follow up within one business day.",
+    "footnote": "We do not share your details with third parties."
+  }
+}

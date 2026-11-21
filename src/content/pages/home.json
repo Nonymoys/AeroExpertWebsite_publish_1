@@ -1,0 +1,219 @@
+{
+  "hero": {
+    "headline": "Aviation Technology Consulting for Airlines & Airports",
+    "subheadline": "Transforming Aviation Through Technology",
+    "body": "AeroExpert is an independent aviation technology consultancy in the UAE supporting airlines, airports and aviation organisations with PSS, DCS, flight operations systems, airport technology, cybersecurity, digital transformation and technology procurement.",
+    "cta_primary": "Schedule a Consultation",
+    "cta_secondary": "Explore Our Services"
+  },
+  "expertise": {
+    "heading": "Aviation Technology Expertise",
+    "body": "AeroExpert combines deep operational aviation knowledge with specialist expertise in airline systems, airport infrastructure, cybersecurity, digital transformation and aviation software solutions. We deliver independent, business-driven advice that helps aviation organisations make better technology decisions and achieve measurable results."
+  },
+  "uae_it": {
+    "heading": "Aviation IT Consulting in the UAE",
+    "body": "AeroExpert provides aviation IT consulting across the UAE and the wider Middle East region — advising airlines, airports and aviation authorities on IT infrastructure strategy, cloud migration, systems integration, IT governance and cybersecurity. Our advisory is vendor-neutral and grounded in the operational and regulatory realities of aviation.",
+    "items": [
+      { "id": "u1", "text": "IT infrastructure strategy and architecture for airlines and airports" },
+      { "id": "u2", "text": "Cloud and hybrid-cloud migration advisory" },
+      { "id": "u3", "text": "Aviation systems integration and API governance" },
+      { "id": "u4", "text": "IT governance frameworks and policy development" },
+      { "id": "u5", "text": "Cybersecurity risk assessment and compliance readiness" },
+      { "id": "u6", "text": "Disaster recovery and business continuity planning" }
+    ]
+  },
+  "services": {
+    "heading": "Our Services",
+    "items": [
+      {
+        "id": "s1",
+        "title": "Aviation Technology Consulting",
+        "description": "Independent advisory on passenger service systems, reservations, revenue management, cargo platforms and ancillary solutions.",
+        "href": "/aviation-technology-consulting"
+      },
+      {
+        "id": "s2",
+        "title": "Flight Operations & Operational Systems",
+        "description": "EFB, flight dispatch, crew management, OCC design and operational systems to improve flight operations efficiency.",
+        "href": "/flight-operations-systems"
+      },
+      {
+        "id": "s3",
+        "title": "Flight Data Monitoring",
+        "description": "Proactive flight data analysis to improve safety, reduce operational risk and enhance fuel efficiency.",
+        "href": "/flight-data-monitoring"
+      },
+      {
+        "id": "s4",
+        "title": "Airport Technology Solutions",
+        "description": "Check-in, boarding, self-service kiosks, baggage systems, FIDS and airport digital transformation.",
+        "href": "/airport-technology-solutions"
+      },
+      {
+        "id": "s5",
+        "title": "IT Infrastructure & Cloud",
+        "description": "Infrastructure assessments, cloud migration, hybrid cloud strategy, disaster recovery and business continuity planning.",
+        "href": "/it-infrastructure-cloud"
+      },
+      {
+        "id": "s6",
+        "title": "Cybersecurity Consulting",
+        "description": "Security assessments, risk management, policy development, regulatory compliance and incident response planning.",
+        "href": "/cybersecurity"
+      },
+      {
+        "id": "s7",
+        "title": "Commercial & Digital Platforms",
+        "description": "Digital commerce, loyalty platforms, ancillary revenue and passenger-facing digital solutions.",
+        "href": "/commercial-digital-platforms"
+      },
+      {
+        "id": "s8",
+        "title": "Digital Transformation",
+        "description": "End-to-end digital transformation strategy and implementation for aviation organisations.",
+        "href": "/digital-transformation"
+      },
+      {
+        "id": "s9",
+        "title": "Project Management Office",
+        "description": "Structured programme and project management to deliver aviation technology initiatives on time and on budget.",
+        "href": "/project-management-office"
+      },
+      {
+        "id": "s10",
+        "title": "Procurement Advisory",
+        "description": "Vendor evaluation, RFP management and contract advisory to support technology procurement decisions.",
+        "href": "/procurement-advisory"
+      },
+      {
+        "id": "s11",
+        "title": "Advanced Consulting Services",
+        "description": "Specialist advisory engagements tailored to complex aviation technology and operational challenges.",
+        "href": "/services"
+      }
+    ]
+  },
+  "why": {
+    "heading": "Why AeroExpert",
+    "items": [
+      {
+        "id": "w1",
+        "title": "Aviation-Focused Expertise",
+        "description": "Deep operational and technical knowledge across airlines, airports and aviation technology."
+      },
+      {
+        "id": "w2",
+        "title": "Independent Vendor Advice",
+        "description": "Vendor-neutral recommendations focused entirely on your organisation's best interests."
+      },
+      {
+        "id": "w3",
+        "title": "End-to-End Delivery",
+        "description": "From strategy through implementation, we support the full technology lifecycle."
+      },
+      {
+        "id": "w4",
+        "title": "Operational Understanding",
+        "description": "Practical insight into how aviation operations work and what technology must deliver."
+      },
+      {
+        "id": "w5",
+        "title": "Global Standards",
+        "description": "Advice aligned with ICAO, IATA and industry best practice frameworks."
+      },
+      {
+        "id": "w6",
+        "title": "Business-Driven Results",
+        "description": "Technology recommendations grounded in commercial and operational outcomes."
+      }
+    ]
+  },
+  "industries": {
+    "heading": "Industries We Serve",
+    "items": [
+      {
+        "id": "i1",
+        "name": "Commercial Airlines"
+      },
+      {
+        "id": "i2",
+        "name": "Regional Airlines"
+      },
+      {
+        "id": "i3",
+        "name": "Cargo Airlines"
+      },
+      {
+        "id": "i4",
+        "name": "Charter Operators"
+      },
+      {
+        "id": "i5",
+        "name": "Business Aviation"
+      },
+      {
+        "id": "i6",
+        "name": "Airports"
+      },
+      {
+        "id": "i7",
+        "name": "Ground Handling Companies"
+      },
+      {
+        "id": "i8",
+        "name": "Aviation Authorities"
+      },
+      {
+        "id": "i9",
+        "name": "MRO Organisations"
+      },
+      {
+        "id": "i10",
+        "name": "Flight Training Organisations"
+      },
+      {
+        "id": "i11",
+        "name": "Aviation Technology Providers"
+      }
+    ]
+  },
+  "approach": {
+    "heading": "How We Work",
+    "steps": [
+      {
+        "id": "a1",
+        "number": "01",
+        "title": "Discover",
+        "description": "Understand your organisation, objectives and current technology landscape."
+      },
+      {
+        "id": "a2",
+        "number": "02",
+        "title": "Assess",
+        "description": "Evaluate gaps, risks and opportunities across systems, processes and capabilities."
+      },
+      {
+        "id": "a3",
+        "number": "03",
+        "title": "Design",
+        "description": "Develop a clear, practical roadmap aligned to your business priorities."
+      },
+      {
+        "id": "a4",
+        "number": "04",
+        "title": "Implement",
+        "description": "Support delivery with expert guidance, vendor management and project oversight."
+      },
+      {
+        "id": "a5",
+        "number": "05",
+        "title": "Optimise",
+        "description": "Monitor outcomes, refine performance and maximise return on investment."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Let's Transform Your Aviation Technology",
+    "button": "Schedule a Consultation"
+  }
+}

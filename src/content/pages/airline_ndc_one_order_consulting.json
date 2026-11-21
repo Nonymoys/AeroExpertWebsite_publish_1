@@ -1,0 +1,73 @@
+{
+  "eyebrow": "Airline Technology Consulting",
+  "title": "Airline NDC & ONE Order Consulting",
+  "intro": "Modern airline retailing is moving from legacy EDIFACT-based distribution to NDC (New Distribution Capability) and ultimately to ONE Order — a fundamental shift in how airlines create, manage and fulfil offers. This transition requires technology investment, commercial strategy and organisational change. AeroExpert provides independent advisory on airline NDC and ONE Order strategy, technology selection and implementation.",
+  "lifecycle": [
+    {
+      "id": "l1",
+      "phase": "Retailing strategy",
+      "desc": "Define your airline's retailing strategy — what you want to sell, through which channels, and how NDC and ONE Order fit into your commercial model."
+    },
+    {
+      "id": "l2",
+      "phase": "NDC readiness assessment",
+      "desc": "Assess your current readiness for NDC — PSS capabilities, offer management, content differentiation, agency connectivity and IT infrastructure."
+    },
+    {
+      "id": "l3",
+      "phase": "Technology selection",
+      "desc": "Evaluate NDC technology options — PSS-native NDC, third-party offer management platforms, aggregators — against your requirements and commercial objectives."
+    },
+    {
+      "id": "l4",
+      "phase": "ONE Order planning",
+      "desc": "Assess the implications of ONE Order for your PSS, DCS, revenue accounting, loyalty and operational systems — and develop a realistic transition roadmap."
+    },
+    {
+      "id": "l5",
+      "phase": "Distribution strategy",
+      "desc": "Define your NDC distribution strategy — direct connect, aggregator, GDS NDC — and the commercial terms and agency incentive structures that will drive adoption."
+    },
+    {
+      "id": "l6",
+      "phase": "Implementation oversight",
+      "desc": "Provide PMO oversight of NDC implementation — managing vendor delivery, agency onboarding, testing and go-live."
+    },
+    {
+      "id": "l7",
+      "phase": "Performance review",
+      "desc": "Monitor NDC channel performance, identify adoption barriers and optimise content and commercial terms to maximise NDC revenue."
+    }
+  ],
+  "who_heading": "Who This Is For",
+  "who": "Airlines developing their NDC strategy, evaluating NDC technology or planning a ONE Order transition. Relevant for Chief Commercial Officers, VP Distribution, VP Technology and Revenue Management leaders.",
+  "closing": "To discuss your NDC and ONE Order requirements, contact us.",
+  "faq_heading": "Airline NDC & ONE Order — Frequently Asked Questions",
+  "faq": [
+    {
+      "id": "f1",
+      "q": "What is NDC and why does it matter for airlines?",
+      "a": "NDC (New Distribution Capability) is an IATA standard that enables airlines to distribute rich, personalised offers — including ancillaries, bundles and dynamic pricing — directly through travel agents and third-party channels, bypassing the limitations of legacy EDIFACT-based GDS distribution. NDC gives airlines control over their product presentation and pricing in indirect channels. AeroExpert advises airlines on NDC strategy, technology selection and implementation."
+    },
+    {
+      "id": "f2",
+      "q": "What is ONE Order and how does it differ from NDC?",
+      "a": "ONE Order is an IATA standard that replaces the legacy PNR, e-ticket and EMD with a single Order record that manages the full passenger journey from booking to fulfilment. While NDC addresses distribution, ONE Order addresses the underlying order management architecture. Together, NDC and ONE Order represent the transition to modern airline retailing. AeroExpert advises on ONE Order readiness assessment and transition planning."
+    },
+    {
+      "id": "f3",
+      "q": "What technology does an airline need to implement NDC?",
+      "a": "NDC implementation typically requires an offer management capability (either PSS-native or a third-party platform), an NDC API layer, content management tools and connectivity to NDC-enabled distribution channels (direct connect, aggregators, GDS NDC). The specific technology required depends on the airline's PSS, commercial objectives and distribution strategy. AeroExpert advises on NDC technology selection and integration."
+    },
+    {
+      "id": "f4",
+      "q": "How long does NDC implementation take?",
+      "a": "NDC implementation timelines vary significantly depending on the airline's PSS capabilities, the scope of the NDC programme and the distribution channels being targeted. A focused NDC implementation for a specific channel can take six to twelve months; a full NDC programme covering multiple channels and offer types typically takes twelve to twenty-four months. AeroExpert helps airlines develop realistic implementation plans."
+    },
+    {
+      "id": "f5",
+      "q": "What are the commercial benefits of NDC for airlines?",
+      "a": "NDC enables airlines to present richer product content in indirect channels, sell ancillaries and bundles through travel agents, implement dynamic pricing and reduce GDS distribution costs. Airlines that have implemented NDC at scale report improved ancillary revenue in indirect channels and greater control over their product presentation. AeroExpert advises on NDC commercial strategy and the metrics needed to measure NDC programme performance."
+    }
+  ]
+}

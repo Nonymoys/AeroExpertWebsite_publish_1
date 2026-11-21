@@ -1,0 +1,88 @@
+{
+  "eyebrow": "Flight Operations",
+  "title": "Electronic Flight Bag (EFB) Consulting",
+  "intro": "The Electronic Flight Bag has become a standard tool in airline flight operations — replacing paper charts, manuals and performance calculations with digital solutions that improve safety, efficiency and situational awareness. EFB implementation involves hardware selection, software platform evaluation, operational approval, aircraft connectivity and integration with flight planning and performance systems. AeroExpert provides independent EFB consulting across the full implementation lifecycle.",
+  "lifecycle": [
+    {
+      "id": "l1",
+      "phase": "EFB strategy",
+      "desc": "Define your EFB strategy — Class 1, 2 or 3, hardware vs software, airline-managed vs vendor-managed — aligned to your fleet, operations and regulatory environment."
+    },
+    {
+      "id": "l2",
+      "phase": "Requirements definition",
+      "desc": "Develop EFB requirements covering applications (charts, manuals, performance, weather, fuel), hardware, connectivity, security and integration with flight planning systems."
+    },
+    {
+      "id": "l3",
+      "phase": "Hardware selection",
+      "desc": "Evaluate EFB hardware options — tablet devices, mounting solutions, power management — against your requirements, fleet type and operational environment."
+    },
+    {
+      "id": "l4",
+      "phase": "Software platform evaluation",
+      "desc": "Evaluate EFB software platforms — application suites, MDM solutions, content management — against your requirements and integration needs."
+    },
+    {
+      "id": "l5",
+      "phase": "Operational approval readiness",
+      "desc": "Prepare for regulatory approval — developing the EFB programme documentation, risk assessment, validation testing and authority submission required by your national aviation authority."
+    },
+    {
+      "id": "l6",
+      "phase": "EFB administration",
+      "desc": "Design the EFB administration processes — content management, software updates, device management, security and pilot support — needed for ongoing operations."
+    },
+    {
+      "id": "l7",
+      "phase": "Aircraft connectivity",
+      "desc": "Evaluate aircraft connectivity options for EFB data exchange — Wi-Fi, cellular, ACARS — and the integration with flight planning, weather and performance systems."
+    },
+    {
+      "id": "l8",
+      "phase": "Integration",
+      "desc": "Oversee integration between the EFB platform and flight planning, performance calculation, weather, charts and operational systems."
+    },
+    {
+      "id": "l9",
+      "phase": "Pilot training",
+      "desc": "Develop pilot training programmes for EFB use — initial type training, recurrent training and change management for the transition from paper."
+    },
+    {
+      "id": "l10",
+      "phase": "Go-live support",
+      "desc": "Provide support through EFB go-live — managing issues, coordinating vendor response and supporting flight operations teams."
+    }
+  ],
+  "who_heading": "Who This Is For",
+  "who": "Airlines implementing EFB for the first time, replacing an existing EFB platform, or seeking to improve their EFB programme. Relevant for Directors of Flight Operations, Chief Pilots, Flight Operations Engineers and IT Directors.",
+  "closing": "To discuss your EFB requirements, contact us.",
+  "faq_heading": "Electronic Flight Bag Consulting — Frequently Asked Questions",
+  "faq": [
+    {
+      "id": "f1",
+      "q": "What is an Electronic Flight Bag (EFB) and how does an airline get it approved?",
+      "a": "An Electronic Flight Bag (EFB) is a portable electronic device used by flight crew to replace paper charts, manuals, performance calculations and other operational documents. In the UAE, EFB operational approval is granted by the General Civil Aviation Authority (GCAA). The approval process requires the airline to develop an EFB programme document, conduct a risk assessment, complete validation testing and submit to the GCAA for review. AeroExpert advises airlines on EFB approval readiness and the documentation required for GCAA submission."
+    },
+    {
+      "id": "f2",
+      "q": "What is the difference between EFB Class 1, Class 2 and Class 3?",
+      "a": "EFB classes define how the device is installed and used in the aircraft. Class 1 EFBs are portable devices not attached to the aircraft. Class 2 EFBs are mounted on a fixed mount in the cockpit but are not part of the aircraft's type design. Class 3 EFBs are installed as part of the aircraft's type design and require an STC. Most airlines use Class 2 EFBs (typically tablet devices on yoke or side mounts). AeroExpert advises on EFB class selection based on your fleet type, operations and regulatory environment."
+    },
+    {
+      "id": "f3",
+      "q": "What EFB applications do airlines typically use?",
+      "a": "Common EFB applications include electronic charts (approach plates, airport diagrams), electronic manuals (AFM, QRH, MEL), performance calculation, weight and balance, weather, fuel planning, electronic flight bag administration and crew communication. The specific applications required depend on the airline's operations, fleet type and regulatory requirements. AeroExpert advises on EFB application requirements and software platform selection."
+    },
+    {
+      "id": "f4",
+      "q": "How does EFB integrate with flight planning systems?",
+      "a": "EFB integration with flight planning systems allows the Operational Flight Plan (OFP) to be delivered directly to the EFB, eliminating paper distribution and ensuring crew always have the current plan. Integration also enables performance data exchange, fuel uplift information and weather updates. AeroExpert advises on EFB-flight planning integration architecture and the connectivity options available for different fleet types."
+    },
+    {
+      "id": "f5",
+      "q": "How long does EFB implementation take?",
+      "a": "EFB implementation typically takes six to eighteen months from strategy definition to operational approval, depending on the complexity of the programme, the number of aircraft types, the applications being implemented and the regulatory authority's review timeline. AeroExpert helps airlines develop realistic implementation plans and manage the process efficiently."
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "eyebrow": "Airline Technology Consulting",
+  "title": "Passenger Service System (PSS) Consulting",
+  "intro": "The Passenger Service System is the most business-critical technology in an airline's estate. It underpins reservations, ticketing, inventory, check-in, departure control, loyalty and distribution. Selecting, migrating or optimising a PSS is one of the most complex and consequential decisions an airline can make. AeroExpert provides independent airline PSS consulting across the full lifecycle — from initial strategy through go-live and post-implementation optimisation. As a specialist passenger service system consultant, we advise airlines of all sizes on PSS strategy, vendor selection, migration and programme delivery.",
+  "lifecycle": [
+    {
+      "id": "l1",
+      "phase": "Strategy",
+      "desc": "Define your PSS strategy: what capabilities you need, what your current system cannot deliver, and whether to replace, upgrade or extend."
+    },
+    {
+      "id": "l2",
+      "phase": "Requirements",
+      "desc": "Develop comprehensive functional and non-functional requirements that reflect your airline's operations, commercial model and integration landscape."
+    },
+    {
+      "id": "l3",
+      "phase": "RFP",
+      "desc": "Develop a rigorous RFP that asks the right questions, enables meaningful vendor comparison and protects your commercial interests."
+    },
+    {
+      "id": "l4",
+      "phase": "Vendor evaluation",
+      "desc": "Evaluate vendor responses against your requirements, conduct demonstrations, check references and assess financial stability and product roadmap."
+    },
+    {
+      "id": "l5",
+      "phase": "Commercial & contract review",
+      "desc": "Review commercial proposals, total cost of ownership, SLAs, exit provisions and contract terms — with independent advisory to protect your position."
+    },
+    {
+      "id": "l6",
+      "phase": "Integration architecture",
+      "desc": "Design the integration architecture between the new PSS and your DCS, revenue management, loyalty, distribution and operational systems."
+    },
+    {
+      "id": "l7",
+      "phase": "Data migration",
+      "desc": "Plan and oversee the migration of passenger data, booking history, loyalty data and configuration from the legacy system to the new platform."
+    },
+    {
+      "id": "l8",
+      "phase": "UAT",
+      "desc": "Design and manage user acceptance testing — ensuring the system meets your requirements before go-live."
+    },
+    {
+      "id": "l9",
+      "phase": "Cutover",
+      "desc": "Develop and rehearse the cutover plan, go/no-go criteria and contingency procedures for the transition from legacy to new PSS."
+    },
+    {
+      "id": "l10",
+      "phase": "Go-live",
+      "desc": "Provide hypercare support through the go-live period — monitoring performance, managing issues and supporting operational teams."
+    },
+    {
+      "id": "l11",
+      "phase": "Optimisation",
+      "desc": "Review post-go-live performance, identify optimisation opportunities and ensure the airline is extracting full value from the new system."
+    }
+  ],
+  "who_heading": "Who This Is For",
+  "who": "Airlines evaluating a PSS change, managing a PSS procurement, or seeking independent advisory on PSS strategy and vendor selection. Relevant for CIOs, VP Technology, VP Commercial and IT Directors at airlines of all sizes.",
+  "related_heading": "Related Services",
+  "closing": "To discuss your PSS requirements, contact us.",
+  "faq_heading": "Passenger Service System Consulting — Frequently Asked Questions",
+  "faq": [
+    {
+      "id": "f1",
+      "q": "How do you choose the right Passenger Service System for an airline?",
+      "a": "Choosing the right PSS requires a structured evaluation process: define your requirements first (functional, integration, commercial model), then assess the market, develop a rigorous RFP, evaluate vendor responses against your requirements, conduct demonstrations, check references with comparable operators, and review contract terms independently. AeroExpert advises airlines through the full PSS selection process as an independent passenger service system consultant with no vendor relationships."
+    },
+    {
+      "id": "f2",
+      "q": "What is the difference between a PSS and a DCS?",
+      "a": "A Passenger Service System (PSS) manages reservations, inventory, ticketing and distribution — the commercial core of an airline. A Departure Control System (DCS) manages the operational check-in, boarding and load control processes at the airport. In many cases the DCS is a module of the PSS, but airlines can also use standalone DCS systems or airport-provided common-use DCS environments. AeroExpert advises on both PSS and DCS selection and integration."
+    },
+    {
+      "id": "f3",
+      "q": "How long does a PSS selection and implementation take?",
+      "a": "A full PSS selection process — from requirements definition through contract signature — typically takes nine to eighteen months. Implementation and migration then typically takes a further twelve to twenty-four months, depending on the complexity of the airline's operations, integration landscape and data migration requirements. AeroExpert helps airlines plan realistic timelines and manage the process efficiently."
+    },
+    {
+      "id": "f4",
+      "q": "What are the biggest risks in a PSS migration?",
+      "a": "The biggest risks in a PSS migration are data migration failures (corrupted or incomplete booking data), integration failures (connected systems not working correctly after cutover), operational readiness failures (staff not trained or processes not ready), and vendor delivery delays. AeroExpert's PSS migration consulting addresses each of these through structured planning, rigorous testing and independent programme governance."
+    },
+    {
+      "id": "f5",
+      "q": "What is airline reservation system selection?",
+      "a": "Airline reservation system selection is the process of choosing a PSS — the platform that manages an airline's reservations, inventory, ticketing and distribution. It is one of the most consequential technology decisions an airline makes, with long-term commercial and operational implications. AeroExpert provides independent advisory on reservation system selection for airlines in the UAE, GCC and Middle East."
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "eyebrow": "Airline Technology Consulting",
+  "title": "Departure Control System Consulting",
+  "intro": "The Departure Control System manages the critical check-in, boarding and load control processes that determine whether an aircraft departs safely and on time. DCS selection, integration and migration require deep understanding of airline operations, airport environments and the complex interfaces between airline and airport systems. AeroExpert provides independent DCS consulting across the full lifecycle.",
+  "lifecycle": [
+    {
+      "id": "l1",
+      "phase": "DCS strategy",
+      "desc": "Define your DCS strategy — airline-hosted vs airport-provided CUTE, standalone vs PSS-integrated — and the operational requirements that drive the decision."
+    },
+    {
+      "id": "l2",
+      "phase": "Requirements definition",
+      "desc": "Develop comprehensive DCS requirements covering check-in, boarding, load control, weight and balance, dangerous goods and integration with PSS and airport systems."
+    },
+    {
+      "id": "l3",
+      "phase": "Vendor selection",
+      "desc": "Evaluate DCS vendors against your requirements, including CUTE/CUSS compatibility, IATA standards compliance, integration capabilities and total cost of ownership."
+    },
+    {
+      "id": "l4",
+      "phase": "Integration design",
+      "desc": "Design the integration architecture between DCS and PSS, airport AODB, baggage systems, load control and operational systems."
+    },
+    {
+      "id": "l5",
+      "phase": "Migration planning",
+      "desc": "Plan the migration from legacy DCS — including data migration, parallel running, airport coordination and cutover planning."
+    },
+    {
+      "id": "l6",
+      "phase": "Operational readiness",
+      "desc": "Ensure operational teams are trained and ready — check-in agents, load controllers, ramp supervisors and IT support."
+    },
+    {
+      "id": "l7",
+      "phase": "Go-live support",
+      "desc": "Provide support through DCS go-live — managing issues, coordinating vendor response and supporting airport operations teams."
+    }
+  ],
+  "who_heading": "Who This Is For",
+  "who": "Airlines evaluating or replacing their DCS, airports implementing common-use systems, and ground handlers managing DCS on behalf of airline clients.",
+  "closing": "To discuss your DCS requirements, contact us.",
+  "faq_heading": "Departure Control System Consulting — Frequently Asked Questions",
+  "faq": [
+    {
+      "id": "f1",
+      "q": "What is a Departure Control System (DCS) and what does it do?",
+      "a": "A Departure Control System (DCS) manages the check-in, boarding and load control processes that determine whether an aircraft departs safely and on time. It handles passenger check-in, seat assignment, baggage acceptance, boarding gate management, weight and balance calculation and load sheet production. The DCS is one of the most operationally critical systems in an airline's technology estate. AeroExpert provides independent DCS consulting for airlines and airports in the UAE and Middle East."
+    },
+    {
+      "id": "f2",
+      "q": "What is the difference between an airline-hosted DCS and a CUTE/CUPPS DCS?",
+      "a": "An airline-hosted DCS is operated by the airline on its own infrastructure and accessed by check-in agents at the airport. A CUTE (Common Use Terminal Equipment) or CUPPS (Common Use Passenger Processing Systems) DCS is provided by the airport and shared between multiple airlines. The choice depends on the airline's network, the airports it operates from, and the commercial and operational trade-offs between control and cost. AeroExpert advises on DCS strategy and the right approach for your airline."
+    },
+    {
+      "id": "f3",
+      "q": "How does DCS integrate with PSS?",
+      "a": "The DCS must integrate with the PSS to receive booking and passenger data, update check-in status, manage seat assignments and transmit departure messages. Integration architecture, message standards (Type-B, API) and data exchange timing are critical to smooth operations. AeroExpert advises on DCS-PSS integration design and the testing needed to validate the interface before go-live."
+    },
+    {
+      "id": "f4",
+      "q": "What is load control and why is it important in DCS?",
+      "a": "Load control is the process of calculating the weight and balance of an aircraft before departure to ensure it is within safe operating limits. The DCS manages the load control process — collecting baggage weights, passenger weights, cargo and mail data — and produces the load sheet that the captain signs before departure. Errors in load control are a safety risk. AeroExpert advises on load control system requirements and the integration between DCS and load control platforms."
+    },
+    {
+      "id": "f5",
+      "q": "What should airlines consider when selecting a DCS?",
+      "a": "Key DCS selection criteria include functional fit (check-in, boarding, load control, dangerous goods), integration capability with PSS and airport systems, CUTE/CUPPS compatibility, IATA standards compliance, total cost of ownership, vendor support and implementation track record. AeroExpert provides independent DCS selection advisory for airlines and airports."
+    }
+  ]
+}

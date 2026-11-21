@@ -1,0 +1,129 @@
+{
+  "hero": {
+    "eyebrow": "Insights",
+    "heading": "Aviation Technology Insights",
+    "body": "Practical guidance on airline and airport technology — from PSS selection and EFB implementation to FDM programmes and cybersecurity. Written from genuine aviation technology consulting experience."
+  },
+  "articles": [
+    {
+      "id": "a1",
+      "slug": "how-to-select-a-pss-for-a-regional-airline",
+      "title": "How to Select a Passenger Service System for a Regional Airline",
+      "summary": "A practical guide to PSS evaluation for regional carriers — covering requirements, vendor shortlist, RFP and selection criteria.",
+      "relatedPage": "/passenger-service-system-consulting",
+      "relatedLabel": "PSS Consulting",
+      "published": false,
+      "outline": "[OWNER TO PROVIDE: real implementation experience from PSS selections at regional airlines]"
+    },
+    {
+      "id": "a2",
+      "slug": "airline-pss-migration-practical-checklist",
+      "title": "Airline PSS Migration: A Practical Checklist",
+      "summary": "The key steps, risks and decisions in a PSS migration — from data migration planning through cutover and go-live.",
+      "relatedPage": "/pss-migration-consulting",
+      "relatedLabel": "PSS Migration Consulting",
+      "published": false,
+      "outline": "[OWNER TO PROVIDE: real implementation experience from PSS migrations]"
+    },
+    {
+      "id": "a3",
+      "slug": "pss-rfp-20-requirements-airlines-should-evaluate",
+      "title": "PSS RFP: 20 Requirements Airlines Should Evaluate",
+      "summary": "The requirements that matter most in a PSS RFP — and the questions airlines often forget to ask.",
+      "relatedPage": "/passenger-service-system-consulting",
+      "relatedLabel": "PSS Consulting",
+      "published": false,
+      "outline": "[OWNER TO PROVIDE: real RFP experience from PSS procurements]"
+    },
+    {
+      "id": "a4",
+      "slug": "ndc-vs-one-order-what-airlines-need-to-prepare",
+      "title": "NDC vs ONE Order: What Airlines Need to Prepare",
+      "summary": "The practical differences between NDC and ONE Order — and what airlines need to do to prepare for the transition.",
+      "relatedPage": "/airline-ndc-one-order-consulting",
+      "relatedLabel": "NDC & ONE Order Consulting",
+      "published": false,
+      "outline": "[OWNER TO PROVIDE: real experience from NDC and ONE Order implementations]"
+    },
+    {
+      "id": "a5",
+      "slug": "efb-implementation-guide-for-regional-airlines",
+      "title": "EFB Implementation Guide for Regional Airlines",
+      "summary": "A practical guide to EFB implementation for regional carriers — hardware, software, regulatory approval and operational deployment.",
+      "relatedPage": "/efb-consulting",
+      "relatedLabel": "EFB Consulting",
+      "published": false,
+      "outline": "[OWNER TO PROVIDE: real experience from EFB implementations at regional airlines]"
+    },
+    {
+      "id": "a6",
+      "slug": "choosing-an-airline-flight-planning-system",
+      "title": "Choosing an Airline Flight Planning System",
+      "summary": "How to evaluate flight planning system vendors — requirements, data quality, integration and total cost of ownership.",
+      "relatedPage": "/flight-planning-system-consulting",
+      "relatedLabel": "Flight Planning System Consulting",
+      "published": false,
+      "outline": "[OWNER TO PROVIDE: real experience from flight planning system selections]"
+    },
+    {
+      "id": "a7",
+      "slug": "how-to-design-an-airline-operations-control-centre",
+      "title": "How to Design an Airline Operations Control Centre",
+      "summary": "The key decisions in OCC design — technology, workflows, staffing and the integration needed for effective disruption management.",
+      "relatedPage": "/airline-occ-consulting",
+      "relatedLabel": "Airline OCC & IOCC Consulting",
+      "published": false,
+      "outline": "[OWNER TO PROVIDE: real experience from OCC design and implementation projects]"
+    },
+    {
+      "id": "a8",
+      "slug": "building-a-flight-data-monitoring-programme",
+      "title": "Building a Flight Data Monitoring Programme",
+      "summary": "How to establish an FDM programme from scratch — data acquisition, event definitions, safety review and management reporting.",
+      "relatedPage": "/flight-data-monitoring",
+      "relatedLabel": "Flight Data Monitoring",
+      "published": false,
+      "outline": "[OWNER TO PROVIDE: real experience from FDM programme implementations]"
+    },
+    {
+      "id": "a9",
+      "slug": "fdm-for-fuel-efficiency-what-airlines-should-measure",
+      "title": "FDM for Fuel Efficiency: What Airlines Should Measure",
+      "summary": "The FDM parameters and events that drive fuel efficiency improvements — and how to turn data into operational change.",
+      "relatedPage": "/flight-data-monitoring",
+      "relatedLabel": "Flight Data Monitoring",
+      "published": false,
+      "outline": "[OWNER TO PROVIDE: real experience from FDM fuel efficiency programmes]"
+    },
+    {
+      "id": "a10",
+      "slug": "airport-passenger-processing-systems-explained",
+      "title": "Airport Passenger Processing Systems Explained",
+      "summary": "A guide to airport passenger processing technology — CUTE, CUSS, self-service kiosks, baggage systems and FIDS.",
+      "relatedPage": "/airport-technology-solutions",
+      "relatedLabel": "Airport Technology Consulting",
+      "published": false,
+      "outline": "[OWNER TO PROVIDE: real experience from airport technology implementations]"
+    },
+    {
+      "id": "a11",
+      "slug": "aviation-cybersecurity-risk-assessment-checklist",
+      "title": "Aviation Cybersecurity Risk Assessment Checklist",
+      "summary": "The key areas to assess in an aviation cybersecurity risk assessment — OT systems, IT systems, third-party interfaces and regulatory requirements.",
+      "relatedPage": "/cybersecurity",
+      "relatedLabel": "Aviation Cybersecurity Consulting",
+      "published": false,
+      "outline": "[OWNER TO PROVIDE: real experience from aviation cybersecurity risk assessments]"
+    },
+    {
+      "id": "a12",
+      "slug": "how-airlines-should-evaluate-technology-vendors",
+      "title": "How Airlines Should Evaluate Technology Vendors",
+      "summary": "A practical guide to aviation technology vendor evaluation — requirements, scoring, demonstrations, references and contract review.",
+      "relatedPage": "/procurement-advisory",
+      "relatedLabel": "Procurement Advisory",
+      "published": false,
+      "outline": "[OWNER TO PROVIDE: real experience from aviation technology procurements]"
+    }
+  ]
+}

@@ -1,0 +1,502 @@
+{
+  "logo/horizontal": {
+    "mediaType": "logo",
+    "currentUrl": "/airo-assets/uploads/logo-horizontal-b62d1f4d.png",
+    "searchQuery": "",
+    "alternatives": [
+      "/airo-assets/uploads/16c67f50f3e03eb36e6240e04902d715.svg"
+    ],
+    "userModified": true,
+    "createdAt": "2026-09-07T07:19:07.569Z",
+    "lastUpdated": "2026-09-07T09:01:53.628Z",
+    "uploadSources": {
+      "/airo-assets/uploads/logo-horizontal-b62d1f4d.png": "xiy1687760_1788771700058_file_Kqvu4673UP.png"
+    },
+    "uploadContentHash": "d7c8a10212421d5f9afcd7fb0fd17a2ba40ee229530c0e97152d8c55f77caf74",
+    "naturalOrientation": "horizontal",
+    "lightSurfaceUrl": "/airo-assets/uploads/logo-horizontal-b62d1f4d.png",
+    "surfaceMode": "light"
+  },
+  "hero/background": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/b170ffac08118e8473314142fff43cb9.jpg",
+    "searchQuery": "aviation technology dark atmospheric cockpit night",
+    "alternatives": [
+      "/airo-assets/uploads/e8a9d9d422379872aa951f83bf77719b.svg"
+    ],
+    "userModified": false,
+    "createdAt": "2026-09-07T07:19:47.365Z",
+    "lastUpdated": "2026-09-07T07:19:47.365Z"
+  },
+  "logo/primary": {
+    "mediaType": "logo",
+    "currentUrl": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/b2897ef5-d135-42ee-adf3-79844ca5a2f1/session/ceef2df9-6852-4702-9be9-0c438490e9a0/transparent-935210f6-7eea-4ec4-99e0-ed66595d061a/logo-logo.png",
+    "searchQuery": "square",
+    "alternatives": [
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/b2897ef5-d135-42ee-adf3-79844ca5a2f1/session/d672fcb1-5101-4cd1-9b06-1961f8ceb6ec/transparent-674d9593-e08e-4631-ba42-1242697f41ad/logo-logo.png",
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/b2897ef5-d135-42ee-adf3-79844ca5a2f1/session/f1d8bc2c-15fb-4e15-9f80-3687a1d904bb/transparent-e5219d4d-379b-4764-8489-c223c4d76e74/logo-logo.png"
+    ],
+    "logoSourceMap": {
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/b2897ef5-d135-42ee-adf3-79844ca5a2f1/session/ceef2df9-6852-4702-9be9-0c438490e9a0/transparent-935210f6-7eea-4ec4-99e0-ed66595d061a/logo-logo.png": {
+        "sessionId": "ceef2df9-6852-4702-9be9-0c438490e9a0",
+        "logoId": "935210f6-7eea-4ec4-99e0-ed66595d061a",
+        "groupId": "74c9983e-3500-4f00-a5e6-a260ff6a8481"
+      },
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/b2897ef5-d135-42ee-adf3-79844ca5a2f1/session/f1d8bc2c-15fb-4e15-9f80-3687a1d904bb/transparent-e5219d4d-379b-4764-8489-c223c4d76e74/logo-logo.png": {
+        "sessionId": "f1d8bc2c-15fb-4e15-9f80-3687a1d904bb",
+        "logoId": "e5219d4d-379b-4764-8489-c223c4d76e74",
+        "groupId": "74c9983e-3500-4f00-a5e6-a260ff6a8481"
+      },
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/b2897ef5-d135-42ee-adf3-79844ca5a2f1/session/d672fcb1-5101-4cd1-9b06-1961f8ceb6ec/transparent-674d9593-e08e-4631-ba42-1242697f41ad/logo-logo.png": {
+        "sessionId": "d672fcb1-5101-4cd1-9b06-1961f8ceb6ec",
+        "logoId": "674d9593-e08e-4631-ba42-1242697f41ad",
+        "groupId": "74c9983e-3500-4f00-a5e6-a260ff6a8481"
+      }
+    },
+    "logoGroupId": "74c9983e-3500-4f00-a5e6-a260ff6a8481",
+    "solidUrlMap": {
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/b2897ef5-d135-42ee-adf3-79844ca5a2f1/session/ceef2df9-6852-4702-9be9-0c438490e9a0/transparent-935210f6-7eea-4ec4-99e0-ed66595d061a/logo-logo.png": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/b2897ef5-d135-42ee-adf3-79844ca5a2f1/session/ceef2df9-6852-4702-9be9-0c438490e9a0/original-935210f6-7eea-4ec4-99e0-ed66595d061a/logo-logo.png",
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/b2897ef5-d135-42ee-adf3-79844ca5a2f1/session/f1d8bc2c-15fb-4e15-9f80-3687a1d904bb/transparent-e5219d4d-379b-4764-8489-c223c4d76e74/logo-logo.png": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/b2897ef5-d135-42ee-adf3-79844ca5a2f1/session/f1d8bc2c-15fb-4e15-9f80-3687a1d904bb/original-e5219d4d-379b-4764-8489-c223c4d76e74/logo-logo.png",
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/b2897ef5-d135-42ee-adf3-79844ca5a2f1/session/d672fcb1-5101-4cd1-9b06-1961f8ceb6ec/transparent-674d9593-e08e-4631-ba42-1242697f41ad/logo-logo.png": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/b2897ef5-d135-42ee-adf3-79844ca5a2f1/session/d672fcb1-5101-4cd1-9b06-1961f8ceb6ec/original-674d9593-e08e-4631-ba42-1242697f41ad/logo-logo.png"
+    },
+    "mockupUrlMap": {
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/b2897ef5-d135-42ee-adf3-79844ca5a2f1/session/ceef2df9-6852-4702-9be9-0c438490e9a0/transparent-935210f6-7eea-4ec4-99e0-ed66595d061a/logo-logo.png": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/b2897ef5-d135-42ee-adf3-79844ca5a2f1/session/ceef2df9-6852-4702-9be9-0c438490e9a0/transparent-935210f6-7eea-4ec4-99e0-ed66595d061a/logo-logo.png"
+    },
+    "landscapeMockupUrlMap": {},
+    "productMockupsMap": {
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/b2897ef5-d135-42ee-adf3-79844ca5a2f1/session/ceef2df9-6852-4702-9be9-0c438490e9a0/transparent-935210f6-7eea-4ec4-99e0-ed66595d061a/logo-logo.png": [
+        {
+          "type": "mug",
+          "label": "Mug",
+          "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/b2897ef5-d135-42ee-adf3-79844ca5a2f1/session/ceef2df9-6852-4702-9be9-0c438490e9a0/mockup-mug-935210f6-7eea-4ec4-99e0-ed66595d061a/logo-logo.png"
+        },
+        {
+          "type": "card",
+          "label": "Business Card",
+          "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/b2897ef5-d135-42ee-adf3-79844ca5a2f1/session/ceef2df9-6852-4702-9be9-0c438490e9a0/mockup-card-935210f6-7eea-4ec4-99e0-ed66595d061a/logo-logo.png"
+        },
+        {
+          "type": "tshirt",
+          "label": "T-Shirt",
+          "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/b2897ef5-d135-42ee-adf3-79844ca5a2f1/session/ceef2df9-6852-4702-9be9-0c438490e9a0/mockup-tshirt-935210f6-7eea-4ec4-99e0-ed66595d061a/logo-logo.png"
+        },
+        {
+          "type": "box",
+          "label": "Packaging",
+          "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/b2897ef5-d135-42ee-adf3-79844ca5a2f1/session/ceef2df9-6852-4702-9be9-0c438490e9a0/mockup-box-935210f6-7eea-4ec4-99e0-ed66595d061a/logo-logo.png"
+        }
+      ]
+    },
+    "productMockups": [
+      {
+        "type": "mug",
+        "label": "Mug",
+        "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/b2897ef5-d135-42ee-adf3-79844ca5a2f1/session/ceef2df9-6852-4702-9be9-0c438490e9a0/mockup-mug-935210f6-7eea-4ec4-99e0-ed66595d061a/logo-logo.png"
+      },
+      {
+        "type": "card",
+        "label": "Business Card",
+        "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/b2897ef5-d135-42ee-adf3-79844ca5a2f1/session/ceef2df9-6852-4702-9be9-0c438490e9a0/mockup-card-935210f6-7eea-4ec4-99e0-ed66595d061a/logo-logo.png"
+      },
+      {
+        "type": "tshirt",
+        "label": "T-Shirt",
+        "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/b2897ef5-d135-42ee-adf3-79844ca5a2f1/session/ceef2df9-6852-4702-9be9-0c438490e9a0/mockup-tshirt-935210f6-7eea-4ec4-99e0-ed66595d061a/logo-logo.png"
+      },
+      {
+        "type": "box",
+        "label": "Packaging",
+        "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/b2897ef5-d135-42ee-adf3-79844ca5a2f1/session/ceef2df9-6852-4702-9be9-0c438490e9a0/mockup-box-935210f6-7eea-4ec4-99e0-ed66595d061a/logo-logo.png"
+      }
+    ],
+    "userModified": true,
+    "createdAt": "2026-09-07T09:01:53.629Z",
+    "lastUpdated": "2026-09-08T09:14:03.377Z",
+    "surfaceMode": "dark",
+    "generatedForSurfaceColor": "#1a2d5a",
+    "lightSurfaceUrl": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/b2897ef5-d135-42ee-adf3-79844ca5a2f1/session/f1d8bc2c-15fb-4e15-9f80-3687a1d904bb/transparent-e5219d4d-379b-4764-8489-c223c4d76e74/logo-logo.png",
+    "darkSurfaceUrl": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/b2897ef5-d135-42ee-adf3-79844ca5a2f1/session/d672fcb1-5101-4cd1-9b06-1961f8ceb6ec/transparent-674d9593-e08e-4631-ba42-1242697f41ad/logo-logo.png"
+  },
+  "logo/vertical": {
+    "lightSurfaceUrl": "/airo-assets/uploads/logo-vertical-b0bab9c0.png",
+    "surfaceMode": "light",
+    "currentUrl": "/airo-assets/uploads/logo-vertical-b0bab9c0.png",
+    "userModified": true,
+    "mediaType": "logo",
+    "searchQuery": "",
+    "alternatives": [],
+    "uploadSources": {
+      "/airo-assets/uploads/logo-vertical-b0bab9c0.png": "xiy1687760_1788771700058_file_Kqvu4673UP.png"
+    },
+    "uploadContentHash": "d7c8a10212421d5f9afcd7fb0fd17a2ba40ee229530c0e97152d8c55f77caf74",
+    "createdAt": "2026-09-07T09:01:53.629Z",
+    "lastUpdated": "2026-09-07T09:01:53.629Z",
+    "naturalOrientation": "vertical"
+  },
+  "logo/favicon": {
+    "lightSurfaceUrl": "/airo-assets/uploads/logo-favicon-4d64cbd7.png",
+    "surfaceMode": "light",
+    "currentUrl": "/airo-assets/uploads/logo-favicon-4d64cbd7.png",
+    "userModified": true,
+    "mediaType": "logo",
+    "searchQuery": "",
+    "alternatives": [],
+    "uploadSources": {
+      "/airo-assets/uploads/logo-favicon-4d64cbd7.png": "xiy1687760_1788771700058_file_Kqvu4673UP.png"
+    },
+    "uploadContentHash": "d7c8a10212421d5f9afcd7fb0fd17a2ba40ee229530c0e97152d8c55f77caf74",
+    "createdAt": "2026-09-07T09:01:53.629Z",
+    "lastUpdated": "2026-09-07T09:01:53.629Z"
+  },
+  "hero/background-video": {
+    "mediaType": "video",
+    "currentUrl": "/airo-assets/uploads/hero-background-video-5fd4d2c5.mp4",
+    "searchQuery": "cinematic landscape with dynamic movement",
+    "alternatives": [
+      "/airo-assets/uploads/hero-background-video-379a48dc.mp4",
+      "/airo-assets/uploads/hero-background-video-fbc6f2a6.jpg",
+      "/airo-assets/uploads/hero-background-video-434b60ca.mp4"
+    ],
+    "userModified": true,
+    "createdAt": "2026-09-08T09:07:28.543Z",
+    "lastUpdated": "2026-11-20T14:38:33.895Z",
+    "uploadSources": {
+      "/airo-assets/uploads/hero-background-video-434b60ca.mp4": "xiy1687760_1788858443848_file_dfJTnFxKEU.mp4",
+      "/airo-assets/uploads/hero-background-video-379a48dc.mp4": "xiy1687760_1789217808026_file_L_Be2t7tyy.mp4",
+      "/airo-assets/uploads/hero-background-video-fbc6f2a6.jpg": "xiy1687760_1789204149827_file_S5BeSuh-l0.jpeg",
+      "/airo-assets/uploads/hero-background-video-5fd4d2c5.mp4": "xiy1687760_1795185507731_file_i5qDkHKUmY.mp4"
+    },
+    "uploadContentHash": "5fd4d2c506051b3ee83efacd9466d5eaaa568a2ec5201ecf349ace79af4e99c0",
+    "caption": "cinematic landscape with dynamic movement"
+  },
+  "uploads/hero-xiy1687760-1788938956764-file-rmybbqxsk3": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/uploads-hero-xiy1687760-1788938956764-file-rmybbqxsk3-d35388b2.jpg",
+    "searchQuery": "",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-09-09T07:29:22.093Z",
+    "lastUpdated": "2026-09-09T07:29:22.093Z",
+    "uploadSources": {
+      "/airo-assets/uploads/uploads-hero-xiy1687760-1788938956764-file-rmybbqxsk3-d35388b2.jpg": "xiy1687760_1788938956764_file_RmybBQXsK3.jpg"
+    },
+    "uploadContentHash": "e46e4708ca7227cb432c3f62bd1409c4737b0eaabbd2aff65ff7746b4b0dab9f"
+  },
+  "uploads/hero-xiy1687760-1788938957548-file-9ajobllfk6": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/uploads-hero-xiy1687760-1788938957548-file-9ajobllfk6-5a8a1843.jpg",
+    "searchQuery": "",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-09-09T07:29:22.431Z",
+    "lastUpdated": "2026-09-09T07:29:22.431Z",
+    "uploadSources": {
+      "/airo-assets/uploads/uploads-hero-xiy1687760-1788938957548-file-9ajobllfk6-5a8a1843.jpg": "xiy1687760_1788938957548_file_9AjoBLLFk6.jpg"
+    },
+    "uploadContentHash": "c66e24a7af19003d8a792743eef0d71919dad65f488e836a4a88622dc443ad22"
+  },
+  "uploads/hero-xiy1687760-1788938957549-file-tbostib6lf": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/uploads-hero-xiy1687760-1788938957549-file-tbostib6lf-9a8837db.png",
+    "searchQuery": "",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-09-09T07:29:24.424Z",
+    "lastUpdated": "2026-09-09T07:29:24.424Z",
+    "uploadSources": {
+      "/airo-assets/uploads/uploads-hero-xiy1687760-1788938957549-file-tbostib6lf-9a8837db.png": "xiy1687760_1788938957549_file_TbosTIb6lf.png"
+    },
+    "uploadContentHash": "439c92d067e598c7aa0b9005c92fd5a82ae0f9a7d691e8d69ab00505fb6d6b44"
+  },
+  "uploads/hero-xiy1687760-1788938957553-file-meixfj6usp": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/uploads-hero-xiy1687760-1788938957553-file-meixfj6usp-6674db6e.png",
+    "searchQuery": "",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-09-09T07:29:25.570Z",
+    "lastUpdated": "2026-09-09T07:29:25.570Z",
+    "uploadSources": {
+      "/airo-assets/uploads/uploads-hero-xiy1687760-1788938957553-file-meixfj6usp-6674db6e.png": "xiy1687760_1788938957553_file_mEixFJ6USp.png"
+    },
+    "uploadContentHash": "e42dc3543a8b96b384a595e12ef55907b23dc23c7b9fa244f3873309497741e1"
+  },
+  "services/aviation-technology-consulting": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/services-aviation-technology-consulting-f1d270c4.jpg",
+    "searchQuery": "business team reviewing data analytics presentation",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-09-09T07:31:44.445Z",
+    "lastUpdated": "2026-09-09T07:37:34.689Z",
+    "uploadSources": {
+      "/airo-assets/uploads/services-aviation-technology-consulting-f1d270c4.jpg": "xiy1687760_1788938956760_file_eIitMfHmeR.png"
+    },
+    "uploadContentHash": "fecf37d4dcc82f2177d82b4c115015b009ae17457ae0b2b6b0308b4a2b02e0d6",
+    "caption": "business team reviewing data analytics presentation"
+  },
+  "services/project-management-office": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/services-project-management-office-81ff04f1.jpg",
+    "searchQuery": "traveler checking flight booking on phone",
+    "alternatives": [
+      "/airo-assets/uploads/services-project-management-office-f20b308e.png"
+    ],
+    "userModified": true,
+    "createdAt": "2026-09-09T07:31:49.249Z",
+    "lastUpdated": "2026-09-09T07:38:15.095Z",
+    "uploadSources": {
+      "/airo-assets/uploads/services-project-management-office-f20b308e.png": "xiy1687760_1788938957552_file_tI2R1JiTOz.png",
+      "/airo-assets/uploads/services-project-management-office-81ff04f1.jpg": "xiy1687760_1788938956765_file_8e2TZL_NPv.jpg"
+    },
+    "uploadContentHash": "bdf5d854a21f9575db8165830b29bb334ca2950fa8043c2434b1e92f9e9a1d3c",
+    "caption": "traveler checking flight booking on phone"
+  },
+  "services/flight-data-monitoring": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/services-flight-data-monitoring-3123dfbb.png",
+    "searchQuery": "flight data monitoring dashboard aircraft operations",
+    "alternatives": [
+      "/airo-assets/uploads/services-flight-data-monitoring-a93bf990.png"
+    ],
+    "userModified": true,
+    "createdAt": "2026-09-09T07:31:49.435Z",
+    "lastUpdated": "2026-09-11T09:37:08.536Z",
+    "uploadSources": {
+      "/airo-assets/uploads/services-flight-data-monitoring-a93bf990.png": "xiy1687760_1788938957551_file_L-UPeudQ0f.png",
+      "/airo-assets/uploads/services-flight-data-monitoring-3123dfbb.png": "xiy1687760_1789119415657_file_a7Q6o6cWok.png"
+    },
+    "uploadContentHash": "cb6b32d044eafaf8ff83b087e295ed3057c930bcf1cfb0dccfde24d0f037264e",
+    "caption": "flight data monitoring dashboard aircraft operations"
+  },
+  "services/procurement-advisory": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/services-procurement-advisory-5a8a1843.jpg",
+    "searchQuery": "server room with illuminated equipment racks",
+    "alternatives": [
+      "/airo-assets/uploads/services-procurement-advisory-81ff04f1.jpg"
+    ],
+    "userModified": true,
+    "createdAt": "2026-09-09T07:31:49.682Z",
+    "lastUpdated": "2026-09-09T07:38:20.510Z",
+    "uploadSources": {
+      "/airo-assets/uploads/services-procurement-advisory-81ff04f1.jpg": "xiy1687760_1788938956765_file_8e2TZL_NPv.jpg",
+      "/airo-assets/uploads/services-procurement-advisory-5a8a1843.jpg": "xiy1687760_1788938957548_file_9AjoBLLFk6.jpg"
+    },
+    "uploadContentHash": "c66e24a7af19003d8a792743eef0d71919dad65f488e836a4a88622dc443ad22",
+    "caption": "server room with illuminated equipment racks"
+  },
+  "services/it-infrastructure-cloud": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/services-it-infrastructure-cloud-13cf2dea.jpg",
+    "searchQuery": "business team reviewing documents together",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-09-09T07:32:15.269Z",
+    "lastUpdated": "2026-09-09T07:37:54.881Z",
+    "uploadSources": {
+      "/airo-assets/uploads/services-it-infrastructure-cloud-13cf2dea.jpg": "xiy1687760_1788938956767_file_zPjNpQ6yYq.jpg"
+    },
+    "uploadContentHash": "f26e5991481651283f8b3b5f7daed163fc0ad2b5d96a2c038118c8ed53614e67",
+    "caption": "business team reviewing documents together"
+  },
+  "services/cybersecurity": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/services-cybersecurity-bcaebd2e.jpg",
+    "searchQuery": "business team reviewing architectural plans office",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-09-09T07:32:15.558Z",
+    "lastUpdated": "2026-09-09T07:38:00.002Z",
+    "uploadSources": {
+      "/airo-assets/uploads/services-cybersecurity-bcaebd2e.jpg": "xiy1687760_1788938956766_file_eUQ7XQqnfn.jpg"
+    },
+    "uploadContentHash": "ff972107ddfb3eef6808ff42c621a913f5e2ef6e54ff96e59df93ea8f6acb642",
+    "caption": "business team reviewing architectural plans office"
+  },
+  "services/commercial-digital-platforms": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/services-commercial-digital-platforms-d35388b2.jpg",
+    "searchQuery": "data center server corridor neon lights",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-09-09T07:32:22.272Z",
+    "lastUpdated": "2026-09-09T07:38:04.721Z",
+    "uploadSources": {
+      "/airo-assets/uploads/services-commercial-digital-platforms-d35388b2.jpg": "xiy1687760_1788938956764_file_RmybBQXsK3.jpg"
+    },
+    "uploadContentHash": "e46e4708ca7227cb432c3f62bd1409c4737b0eaabbd2aff65ff7746b4b0dab9f",
+    "caption": "data center server corridor neon lights"
+  },
+  "services/flight-operations-systems": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/services-flight-operations-systems-fbc6f2a6.jpg",
+    "searchQuery": "airplane cockpit landing at night runway",
+    "alternatives": [
+      "/airo-assets/uploads/services-flight-operations-systems-f20b308e.png",
+      "/airo-assets/uploads/services-flight-operations-systems-5a8a1843.jpg"
+    ],
+    "userModified": true,
+    "createdAt": "2026-09-09T07:32:22.528Z",
+    "lastUpdated": "2026-09-12T09:09:19.162Z",
+    "uploadSources": {
+      "/airo-assets/uploads/services-flight-operations-systems-5a8a1843.jpg": "xiy1687760_1788938957548_file_9AjoBLLFk6.jpg",
+      "/airo-assets/uploads/services-flight-operations-systems-f20b308e.png": "xiy1687760_1788938957552_file_tI2R1JiTOz.png",
+      "/airo-assets/uploads/services-flight-operations-systems-fbc6f2a6.jpg": "xiy1687760_1789204149827_file_S5BeSuh-l0.jpeg"
+    },
+    "uploadContentHash": "48a976abef3f491c38be32b952ad1e851a5f5bd57235705f4c20cd881927ac64",
+    "caption": "airplane cockpit landing at night runway"
+  },
+  "services/airport-technology-solutions": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/services-airport-technology-solutions-7eb13189.png",
+    "searchQuery": "airport self-service check-in kiosks modern terminal",
+    "alternatives": [
+      "/airo-assets/uploads/services-airport-technology-solutions-9a8837db.png"
+    ],
+    "userModified": true,
+    "createdAt": "2026-09-09T07:32:22.720Z",
+    "lastUpdated": "2026-09-10T07:26:45.294Z",
+    "uploadSources": {
+      "/airo-assets/uploads/services-airport-technology-solutions-9a8837db.png": "xiy1687760_1788938957549_file_TbosTIb6lf.png",
+      "/airo-assets/uploads/services-airport-technology-solutions-7eb13189.png": "xiy1687760_1789025018846_file_WhpHM3v5ay.png"
+    },
+    "uploadContentHash": "b5b0dfede44970244ac61cfd5ba78d9a27f758f7973e4942db0c74885e32a924",
+    "caption": "airport self-service check-in kiosks modern terminal"
+  },
+  "services/digital-transformation": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/services-digital-transformation-6674db6e.png",
+    "searchQuery": "aircraft cockpit displays glowing orange blue",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-09-09T07:32:22.932Z",
+    "lastUpdated": "2026-09-09T07:38:10.039Z",
+    "uploadSources": {
+      "/airo-assets/uploads/services-digital-transformation-6674db6e.png": "xiy1687760_1788938957553_file_mEixFJ6USp.png"
+    },
+    "uploadContentHash": "e42dc3543a8b96b384a595e12ef55907b23dc23c7b9fa244f3873309497741e1",
+    "caption": "aircraft cockpit displays glowing orange blue"
+  },
+  "uploads/hero-xiy1687760-1788938956764-file-rmybbqxsk3-2": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/uploads-hero-xiy1687760-1788938956764-file-rmybbqxsk3-2-d35388b2.jpg",
+    "searchQuery": "",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-09-09T07:37:16.946Z",
+    "lastUpdated": "2026-09-09T07:37:16.946Z",
+    "uploadSources": {
+      "/airo-assets/uploads/uploads-hero-xiy1687760-1788938956764-file-rmybbqxsk3-2-d35388b2.jpg": "xiy1687760_1788938956764_file_RmybBQXsK3.jpg"
+    },
+    "uploadContentHash": "e46e4708ca7227cb432c3f62bd1409c4737b0eaabbd2aff65ff7746b4b0dab9f"
+  },
+  "uploads/hero-xiy1687760-1788938956767-file-zpjnpq6yyq": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/uploads-hero-xiy1687760-1788938956767-file-zpjnpq6yyq-13cf2dea.jpg",
+    "searchQuery": "",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-09-09T07:37:17.178Z",
+    "lastUpdated": "2026-09-09T07:37:17.178Z",
+    "uploadSources": {
+      "/airo-assets/uploads/uploads-hero-xiy1687760-1788938956767-file-zpjnpq6yyq-13cf2dea.jpg": "xiy1687760_1788938956767_file_zPjNpQ6yYq.jpg"
+    },
+    "uploadContentHash": "f26e5991481651283f8b3b5f7daed163fc0ad2b5d96a2c038118c8ed53614e67"
+  },
+  "uploads/hero-xiy1687760-1788938956765-file-8e2tzl-npv": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/uploads-hero-xiy1687760-1788938956765-file-8e2tzl-npv-81ff04f1.jpg",
+    "searchQuery": "",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-09-09T07:37:17.404Z",
+    "lastUpdated": "2026-09-09T07:37:17.404Z",
+    "uploadSources": {
+      "/airo-assets/uploads/uploads-hero-xiy1687760-1788938956765-file-8e2tzl-npv-81ff04f1.jpg": "xiy1687760_1788938956765_file_8e2TZL_NPv.jpg"
+    },
+    "uploadContentHash": "bdf5d854a21f9575db8165830b29bb334ca2950fa8043c2434b1e92f9e9a1d3c"
+  },
+  "uploads/hero-xiy1687760-1788938957548-file-9ajobllfk6-2": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/uploads-hero-xiy1687760-1788938957548-file-9ajobllfk6-2-5a8a1843.jpg",
+    "searchQuery": "",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-09-09T07:37:17.637Z",
+    "lastUpdated": "2026-09-09T07:37:17.637Z",
+    "uploadSources": {
+      "/airo-assets/uploads/uploads-hero-xiy1687760-1788938957548-file-9ajobllfk6-2-5a8a1843.jpg": "xiy1687760_1788938957548_file_9AjoBLLFk6.jpg"
+    },
+    "uploadContentHash": "c66e24a7af19003d8a792743eef0d71919dad65f488e836a4a88622dc443ad22"
+  },
+  "uploads/hero-xiy1687760-1788938956760-file-eiitmfhmer": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/uploads-hero-xiy1687760-1788938956760-file-eiitmfhmer-f1d270c4.jpg",
+    "searchQuery": "",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-09-09T07:37:18.015Z",
+    "lastUpdated": "2026-09-09T07:37:18.015Z",
+    "uploadSources": {
+      "/airo-assets/uploads/uploads-hero-xiy1687760-1788938956760-file-eiitmfhmer-f1d270c4.jpg": "xiy1687760_1788938956760_file_eIitMfHmeR.png"
+    },
+    "uploadContentHash": "fecf37d4dcc82f2177d82b4c115015b009ae17457ae0b2b6b0308b4a2b02e0d6"
+  },
+  "uploads/hero-xiy1687760-1788938957549-file-tbostib6lf-2": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/uploads-hero-xiy1687760-1788938957549-file-tbostib6lf-2-9a8837db.png",
+    "searchQuery": "",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-09-09T07:37:18.203Z",
+    "lastUpdated": "2026-09-09T07:37:18.203Z",
+    "uploadSources": {
+      "/airo-assets/uploads/uploads-hero-xiy1687760-1788938957549-file-tbostib6lf-2-9a8837db.png": "xiy1687760_1788938957549_file_TbosTIb6lf.png"
+    },
+    "uploadContentHash": "439c92d067e598c7aa0b9005c92fd5a82ae0f9a7d691e8d69ab00505fb6d6b44"
+  },
+  "uploads/hero-xiy1687760-1788938957552-file-ti2r1jitoz": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/uploads-hero-xiy1687760-1788938957552-file-ti2r1jitoz-f20b308e.png",
+    "searchQuery": "",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-09-09T07:37:18.429Z",
+    "lastUpdated": "2026-09-09T07:37:18.429Z",
+    "uploadSources": {
+      "/airo-assets/uploads/uploads-hero-xiy1687760-1788938957552-file-ti2r1jitoz-f20b308e.png": "xiy1687760_1788938957552_file_tI2R1JiTOz.png"
+    },
+    "uploadContentHash": "39f55ce3d9a2871ea6d1245e2c0a2bcde4fc2f379a0c69f6136b6bad4335a324"
+  },
+  "uploads/hero-xiy1687760-1788938957553-file-meixfj6usp-2": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/uploads-hero-xiy1687760-1788938957553-file-meixfj6usp-2-6674db6e.png",
+    "searchQuery": "",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-09-09T07:37:18.624Z",
+    "lastUpdated": "2026-09-09T07:37:18.624Z",
+    "uploadSources": {
+      "/airo-assets/uploads/uploads-hero-xiy1687760-1788938957553-file-meixfj6usp-2-6674db6e.png": "xiy1687760_1788938957553_file_mEixFJ6USp.png"
+    },
+    "uploadContentHash": "e42dc3543a8b96b384a595e12ef55907b23dc23c7b9fa244f3873309497741e1"
+  },
+  "homepage/promo-video": {
+    "mediaType": "video",
+    "currentUrl": "/airo-assets/uploads/homepage-promo-video-a154e1c5.mp4",
+    "searchQuery": "homepage promotional video product showcase",
+    "alternatives": [
+      "/airo-assets/uploads/homepage-promo-video-379a48dc.mp4"
+    ],
+    "userModified": true,
+    "createdAt": "2026-09-12T12:58:01.594Z",
+    "lastUpdated": "2026-09-20T16:39:04.952Z",
+    "uploadSources": {
+      "/airo-assets/uploads/homepage-promo-video-379a48dc.mp4": "xiy1687760_1789217808026_file_L_Be2t7tyy.mp4",
+      "/airo-assets/uploads/homepage-promo-video-a154e1c5.mp4": "xiy1687760_1789922339647_file_lYu-BGadN5.mp4"
+    },
+    "uploadContentHash": "a154e1c5c89eb31b9835b284c80887ddca7166fe2e021540149ae4978a716591",
+    "caption": "homepage promotional video product showcase"
+  }
+}

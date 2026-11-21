@@ -1,0 +1,61 @@
+{
+  "hero": {
+    "eyebrow": "Consulting Approach",
+    "heading": "How We Work",
+    "body": "AeroExpert's consulting approach is structured, practical and focused on delivering measurable results. We work as a trusted extension of your team — bringing specialist expertise, independent perspective and a commitment to outcomes that matter to your organisation."
+  },
+  "principles": [
+    {
+      "id": "pr1",
+      "title": "Independent",
+      "description": "We have no commercial relationships with technology vendors. Our advice is entirely independent and focused on your organisation's best interests."
+    },
+    {
+      "id": "pr2",
+      "title": "Practical",
+      "description": "Our recommendations are grounded in real-world aviation experience. We focus on what works in practice, not just in theory."
+    },
+    {
+      "id": "pr3",
+      "title": "Business-Driven",
+      "description": "Technology is a means to an end. We keep commercial and operational outcomes at the centre of every engagement."
+    },
+    {
+      "id": "pr4",
+      "title": "Collaborative",
+      "description": "We work with your team, not around them. Knowledge transfer and capability building are part of every engagement."
+    }
+  ],
+  "steps": [
+    {
+      "id": "st1",
+      "number": "01",
+      "title": "Discover",
+      "description": "We begin every engagement by developing a thorough understanding of your organisation — your objectives, your current technology landscape, your operational context and your constraints. This discovery phase ensures our advice is relevant, practical and grounded in your specific situation."
+    },
+    {
+      "id": "st2",
+      "number": "02",
+      "title": "Assess",
+      "description": "We conduct a structured assessment of your current state — evaluating systems, processes, capabilities and risks against your objectives and industry best practice. This assessment provides the factual foundation for our recommendations."
+    },
+    {
+      "id": "st3",
+      "number": "03",
+      "title": "Design",
+      "description": "Based on our assessment findings, we develop a clear, practical roadmap — defining the target state, the path to get there, the investment required and the benefits to be realised. Our designs are realistic, sequenced and aligned to your priorities."
+    },
+    {
+      "id": "st4",
+      "number": "04",
+      "title": "Implement",
+      "description": "We support delivery through the implementation phase — providing expert guidance, vendor management support, project oversight and quality assurance to ensure programmes are delivered on time, on budget and to the required standard."
+    },
+    {
+      "id": "st5",
+      "number": "05",
+      "title": "Optimise",
+      "description": "After implementation, we help you maximise the value of your technology investment — monitoring outcomes, identifying improvement opportunities and ensuring your organisation continues to benefit from the changes made."
+    }
+  ]
+}

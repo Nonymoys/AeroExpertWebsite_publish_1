@@ -1,0 +1,79 @@
+{
+  "eyebrow": "Airline Systems",
+  "title": "Commercial and Digital Platforms",
+  "intro": "We support digital customer journeys and commercial platforms that improve conversion, service and revenue. Airlines interact with passengers across a range of digital touchpoints — website, mobile, contact centre and self-service. We advise on the platforms that underpin these channels and the integration between them.",
+  "capabilities_heading": "Capabilities",
+  "capabilities": [
+    {
+      "id": "c1",
+      "text": "CRM"
+    },
+    {
+      "id": "c2",
+      "text": "Contact-centre platforms"
+    },
+    {
+      "id": "c3",
+      "text": "Payment gateways"
+    },
+    {
+      "id": "c4",
+      "text": "Airline websites"
+    },
+    {
+      "id": "c5",
+      "text": "Mobile applications"
+    },
+    {
+      "id": "c6",
+      "text": "E-commerce platforms"
+    },
+    {
+      "id": "c7",
+      "text": "Customer experience platforms"
+    },
+    {
+      "id": "c8",
+      "text": "Self-service portals"
+    },
+    {
+      "id": "c9",
+      "text": "Digital journey design"
+    },
+    {
+      "id": "c10",
+      "text": "Sales and service integration"
+    }
+  ],
+  "who_heading": "Who this is for",
+  "who": "This service is relevant to Chief Commercial Officers, VP Digital, VP Customer Experience, IT Directors, and technology leads at airlines managing digital channel strategy or commercial platform programmes.",
+  "closing": "To discuss a specific requirement, contact us.",
+  "faq_heading": "Airline Commercial & Digital Platforms — Frequently Asked Questions",
+  "faq": [
+    {
+      "id": "f1",
+      "q": "What is an airline loyalty platform and how do airlines choose one?",
+      "a": "An airline loyalty platform manages frequent flyer programme membership, points accrual and redemption, partner integrations and member communications. Choosing the right platform requires evaluating programme complexity, integration requirements with PSS and NDC systems, total cost of ownership and the vendor's roadmap for offer/order-based loyalty. AeroExpert advises airlines on loyalty platform strategy, vendor selection and implementation oversight."
+    },
+    {
+      "id": "f2",
+      "q": "What is NDC and how does it affect airline digital platforms?",
+      "a": "NDC (New Distribution Capability) is an IATA standard that enables airlines to distribute rich, personalised offers directly through travel agents and third-party channels — bypassing legacy GDS limitations. NDC implementation requires changes to the airline's offer and order management systems, PSS integration and digital channel architecture. AeroExpert advises on NDC strategy, technology selection and implementation readiness."
+    },
+    {
+      "id": "f3",
+      "q": "How should airlines approach ancillary revenue platform selection?",
+      "a": "Ancillary revenue platform selection should start with a clear definition of the airline's ancillary strategy — which products to sell, through which channels and at what stage of the booking journey. Platform evaluation should assess offer management capability, PSS integration, NDC compatibility and the ability to personalise offers. AeroExpert provides independent advisory on ancillary platform selection and integration."
+    },
+    {
+      "id": "f4",
+      "q": "What is the difference between a PSS and a commercial digital platform?",
+      "a": "A Passenger Service System (PSS) manages reservations, inventory, ticketing and departure control — the operational core of airline distribution. Commercial digital platforms sit on top of the PSS to manage customer-facing channels: the airline website, mobile app, contact centre and loyalty programme. Both must be integrated, but they serve different functions and are often procured separately."
+    },
+    {
+      "id": "f5",
+      "q": "What payment gateway considerations are specific to airlines?",
+      "a": "Airlines face specific payment challenges including high transaction values, chargeback risk, multi-currency requirements, fraud management and compliance with card scheme rules for airline ticketing. AeroExpert advises on payment gateway selection, 3DS2 implementation, fraud management strategy and the integration between payment platforms and PSS/e-commerce systems."
+    }
+  ]
+}

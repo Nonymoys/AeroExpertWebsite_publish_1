@@ -1,0 +1,76 @@
+{
+  "eyebrow": "Airports and Infrastructure",
+  "title": "Aviation IT Consulting: Infrastructure & Cloud",
+  "intro": "AeroExpert provides aviation IT consulting for airlines, airports and aviation authorities — advising on IT infrastructure strategy, cloud migration, hybrid-cloud architecture, systems integration, IT governance and business continuity. Aviation organisations require infrastructure that supports operational continuity, regulatory compliance and the demands of mission-critical systems. We provide independent advisory on infrastructure strategy, architecture and migration — without vendor bias.",
+  "capabilities_heading": "Aviation IT Consulting Capabilities",
+  "capabilities": [
+    { "id": "c1", "text": "Infrastructure and network assessments" },
+    { "id": "c2", "text": "Network design and modernisation" },
+    { "id": "c3", "text": "Server infrastructure" },
+    { "id": "c4", "text": "Cloud and hybrid-cloud strategy" },
+    { "id": "c5", "text": "Cloud migration" },
+    { "id": "c6", "text": "Storage and backup solutions" },
+    { "id": "c7", "text": "Disaster recovery" },
+    { "id": "c8", "text": "Business continuity planning" },
+    { "id": "c9", "text": "High-availability architecture" },
+    { "id": "c10", "text": "IT service continuity" }
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "heading": "IT Infrastructure Strategy for Airlines and Airports",
+      "body": "Aviation IT infrastructure must support mission-critical systems — passenger service platforms, departure control, flight operations, baggage handling, FIDS and air traffic management — with the reliability and availability that aviation operations demand. AeroExpert advises airlines and airports on IT infrastructure strategy: assessing the current environment, identifying gaps and risks, and developing a prioritised roadmap that aligns technology investment with operational and commercial objectives. Our advisory covers on-premises, cloud and hybrid environments, and is grounded in the regulatory and operational requirements of aviation — including ICAO, IATA and local civil aviation authority frameworks."
+    },
+    {
+      "id": "s2",
+      "heading": "Cloud Migration Advisory for Aviation Organisations",
+      "body": "Cloud adoption in aviation requires careful planning. Aviation systems carry strict availability, latency and data sovereignty requirements that differ from general enterprise workloads. AeroExpert supports airlines and airports through cloud migration — from initial readiness assessment and workload classification through architecture design, vendor evaluation, migration sequencing and go-live. We advise on public cloud, private cloud and hybrid-cloud models, and help organisations understand the trade-offs between each in the context of their specific operational and regulatory environment. Our advisory is independent: we do not represent any cloud provider, and our recommendations are based solely on your organisation's requirements."
+    },
+    {
+      "id": "s3",
+      "heading": "Systems Integration and API Governance",
+      "body": "Aviation technology environments are highly integrated. A modern airline or airport operates dozens of interconnected systems — PSS, DCS, revenue management, EFB, FDM, baggage, FIDS, loyalty, cargo and more — each exchanging data in real time. Poor integration architecture creates operational risk, data inconsistency and costly point-to-point dependencies that are difficult to maintain and scale. AeroExpert advises on integration strategy and architecture: assessing the current integration landscape, identifying fragile or high-risk interfaces, and designing a target architecture that supports reliable, maintainable and scalable system connectivity. We also advise on API governance frameworks — standards, versioning, security and lifecycle management — to ensure integrations remain manageable as the technology estate evolves."
+    },
+    {
+      "id": "s4",
+      "heading": "IT Governance for Aviation Organisations",
+      "body": "Effective IT governance ensures that technology decisions are made consistently, risks are managed and investments deliver value. For aviation organisations, governance must also satisfy the requirements of civil aviation authorities, industry standards bodies and, where applicable, data protection regulators. AeroExpert supports airlines and airports in developing IT governance frameworks appropriate to their size, structure and regulatory environment — covering IT policy, change management, vendor management, asset lifecycle, software licensing and technology risk. We also advise on IT operating model design: how IT functions should be structured, what capabilities should be in-house versus outsourced, and how IT should interface with operations, commercial and finance."
+    },
+    {
+      "id": "s5",
+      "heading": "Business Continuity and Disaster Recovery Planning",
+      "body": "Aviation operations cannot tolerate extended IT outages. A failure in a core system — PSS, DCS, flight planning or baggage — can ground aircraft, strand passengers and generate significant regulatory and commercial consequences. AeroExpert advises airlines and airports on business continuity and disaster recovery planning for IT: assessing recovery time and recovery point objectives for critical systems, evaluating current DR arrangements, identifying gaps and designing resilient architectures that meet operational requirements. We also support the development of IT business continuity plans, testing frameworks and incident response procedures — ensuring that when failures occur, the organisation can respond effectively and restore operations as quickly as possible."
+    }
+  ],
+  "who_heading": "Who this is for",
+  "who": "This service is relevant to Chief Information Officers, IT Directors, Infrastructure Managers, and technology leads at airlines, airports and aviation authorities planning infrastructure upgrades, cloud transitions or business continuity improvements.",
+  "closing": "To discuss a specific requirement, contact us.",
+  "faq_heading": "Aviation IT Infrastructure & Cloud — Frequently Asked Questions",
+  "faq": [
+    {
+      "id": "f1",
+      "q": "What is aviation cloud migration and what makes it different from general enterprise cloud migration?",
+      "a": "Aviation cloud migration is the process of moving airline or airport IT workloads — including PSS, DCS, flight operations systems and airport platforms — to cloud or hybrid-cloud environments. Aviation workloads have strict availability, latency and data sovereignty requirements that differ from general enterprise IT. Mission-critical systems cannot tolerate the downtime that is acceptable in other industries, and regulatory requirements may restrict where data can be stored. AeroExpert advises on cloud migration strategy that accounts for these aviation-specific constraints."
+    },
+    {
+      "id": "f2",
+      "q": "What IT infrastructure does an airline need?",
+      "a": "An airline's IT infrastructure must support a complex ecosystem of mission-critical systems — PSS, DCS, revenue management, EFB, FDM, crew management, OCC and corporate systems — with the high availability and resilience that aviation operations demand. Infrastructure requirements include network design, server and storage architecture, data centre strategy, cloud and hybrid-cloud platforms, disaster recovery and business continuity arrangements. AeroExpert advises airlines on infrastructure strategy and architecture across all these areas."
+    },
+    {
+      "id": "f3",
+      "q": "What is hybrid cloud in aviation and when is it appropriate?",
+      "a": "Hybrid cloud combines on-premises or private cloud infrastructure with public cloud services, allowing organisations to keep sensitive or latency-critical workloads on-premises while leveraging public cloud for less sensitive or variable workloads. In aviation, hybrid cloud is often appropriate for organisations that have regulatory data sovereignty requirements, legacy systems that cannot be easily migrated, or operational systems with strict latency requirements. AeroExpert advises on hybrid cloud architecture and the workload classification needed to make the right placement decisions."
+    },
+    {
+      "id": "f4",
+      "q": "What is disaster recovery planning for aviation IT?",
+      "a": "Disaster recovery (DR) planning for aviation IT defines how critical systems will be recovered in the event of a failure — including the Recovery Time Objective (RTO) and Recovery Point Objective (RPO) for each system, the DR architecture, failover procedures and testing regime. Aviation organisations cannot afford extended outages of core operational systems. AeroExpert advises on DR strategy, architecture and testing for airlines and airports."
+    },
+    {
+      "id": "f5",
+      "q": "How does IT governance differ for aviation organisations?",
+      "a": "Aviation IT governance must satisfy the requirements of civil aviation authorities (including the GCAA in the UAE), ICAO standards, IATA guidelines and, where applicable, data protection regulations. IT governance frameworks for aviation organisations must address change management for safety-critical systems, vendor management for operationally critical suppliers, and the integration of IT risk management with the organisation's Safety Management System (SMS). AeroExpert advises on IT governance frameworks appropriate to the aviation regulatory environment."
+    }
+  ]
+}

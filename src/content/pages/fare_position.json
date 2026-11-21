@@ -1,0 +1,30 @@
+{
+  "hero": {
+    "eyebrow": "Fare Intelligence",
+    "heading": "Fare Position Tool",
+    "body": "Enter a route to see where your fares sit against everything else selling on it. Powered by live market data from AeroExpert's fare intelligence platform."
+  },
+  "howItWorks": {
+    "heading": "How it works",
+    "steps": [
+      {
+        "id": "s1",
+        "number": "01",
+        "title": "Enter your route",
+        "description": "Type the three-letter IATA codes for origin and destination — for example DXB and LHR."
+      },
+      {
+        "id": "s2",
+        "number": "02",
+        "title": "Select a cabin",
+        "description": "Optionally filter by cabin class: Economy, Premium Economy, Business or First."
+      },
+      {
+        "id": "s3",
+        "number": "03",
+        "title": "Compare instantly",
+        "description": "See your fare plotted against the market range, with a clear verdict on your competitive position."
+      }
+    ]
+  }
+}

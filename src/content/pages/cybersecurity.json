@@ -1,0 +1,46 @@
+{
+  "eyebrow": "Cybersecurity",
+  "title": "Aviation Cybersecurity Consulting",
+  "intro": "AeroExpert provides specialist aviation cybersecurity consulting for airlines, airports and aviation organisations. Aviation cybersecurity is a distinct discipline — the threat landscape, regulatory environment and operational constraints of aviation require expertise that goes beyond generic IT security advisory. We advise on risk assessment, maturity assessment, IT governance, incident response planning and compliance readiness.",
+  "risk_heading": "Aviation Cybersecurity Risk Assessment",
+  "risk_body": "A cybersecurity risk assessment identifies the threats, vulnerabilities and potential impacts specific to your aviation organisation. AeroExpert conducts structured risk assessments covering operational technology (OT), IT systems, third-party interfaces and the aviation-specific threat landscape, producing a prioritised risk register and remediation roadmap.",
+  "maturity_heading": "Cybersecurity Maturity Assessment",
+  "maturity_body": "A maturity assessment benchmarks your organisation's cybersecurity capabilities against recognised frameworks — including NIST CSF, ISO 27001 and aviation-specific guidance from ICAO, IATA and ENISA. AeroExpert assesses current maturity, identifies gaps and provides a structured improvement plan.",
+  "governance_heading": "Airline & Airport IT Governance",
+  "governance_body": "Effective IT governance is the foundation of a sustainable cybersecurity posture. AeroExpert advises on IT governance frameworks, policy development, security standards, access management, third-party risk management and the organisational structures needed to manage cybersecurity risk in an aviation environment.",
+  "incident_heading": "Incident Response Planning",
+  "incident_body": "Aviation organisations must be prepared to respond effectively to cybersecurity incidents. AeroExpert advises on incident response plan development, tabletop exercises, crisis communication procedures and the integration of cybersecurity incident response with aviation safety management systems.",
+  "compliance_heading": "Cybersecurity Compliance & Audit Readiness",
+  "compliance_body": "Aviation cybersecurity compliance requirements are increasing — from ICAO Annex 17 and Doc 10099 to EU NIS2 and national aviation authority requirements. AeroExpert advises on compliance gap analysis, audit preparation and the documentation needed to demonstrate regulatory compliance.",
+  "who_heading": "Who This Is For",
+  "who": "Airlines, airports, ground handlers, aviation authorities and aviation technology organisations that need specialist aviation cybersecurity advisory — including CISOs, IT Directors, Safety Managers and Accountable Managers responsible for cybersecurity governance.",
+  "closing": "To discuss your aviation cybersecurity requirements, contact us.",
+  "faq_heading": "Aviation Cybersecurity — Frequently Asked Questions",
+  "faq": [
+    {
+      "id": "f1",
+      "q": "What are the aviation cybersecurity regulations in the UAE?",
+      "a": "In the UAE, aviation cybersecurity is governed by the General Civil Aviation Authority (GCAA) and aligned with ICAO Doc 10099 (Cybersecurity Manual for Civil Aviation). Organisations must also comply with UAE Information Assurance (IA) standards issued by the UAE Cybersecurity Council and, where applicable, NESA (National Electronic Security Authority) requirements. AeroExpert advises on compliance with all applicable UAE and international aviation cybersecurity frameworks."
+    },
+    {
+      "id": "f2",
+      "q": "What is the difference between an aviation cybersecurity risk assessment and a maturity assessment?",
+      "a": "A risk assessment identifies specific threats, vulnerabilities and impacts relevant to your systems and operations, producing a prioritised risk register. A maturity assessment benchmarks your organisation's cybersecurity capabilities against a recognised framework (such as NIST CSF or ISO 27001), identifying gaps and producing an improvement roadmap. Both are complementary and are often conducted together."
+    },
+    {
+      "id": "f3",
+      "q": "Why does aviation cybersecurity require specialist expertise?",
+      "a": "Aviation operates a unique mix of IT and operational technology (OT) systems — including PSS, DCS, flight operations platforms, airport systems and safety-critical avionics interfaces — each with distinct threat profiles, availability requirements and regulatory obligations. Generic IT security advisory does not address the aviation-specific threat landscape, ICAO/GCAA compliance requirements or the operational constraints of aviation environments."
+    },
+    {
+      "id": "f4",
+      "q": "What cybersecurity frameworks apply to airlines and airports?",
+      "a": "Relevant frameworks include ICAO Annex 17, ICAO Doc 10099, IATA Cybersecurity Guidance, NIST CSF, ISO/IEC 27001, and national frameworks such as UAE IA standards and NESA. EU-based operators must also consider NIS2. AeroExpert advises on the frameworks applicable to your organisation and jurisdiction."
+    },
+    {
+      "id": "f5",
+      "q": "How long does an aviation cybersecurity assessment take?",
+      "a": "A focused risk or maturity assessment for a mid-size airline or airport typically takes four to eight weeks, depending on scope, the number of systems in scope and the availability of documentation and stakeholders. AeroExpert scopes each engagement to your specific requirements and timeline."
+    }
+  ]
+}

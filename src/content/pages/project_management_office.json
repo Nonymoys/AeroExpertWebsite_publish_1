@@ -1,0 +1,50 @@
+{
+  "eyebrow": "Advisory & Delivery",
+  "title": "Aviation Technology PMO",
+  "intro": "AeroExpert provides independent aviation technology PMO services — supporting airlines, airports and aviation organisations with programme governance, vendor management, risk management, testing oversight, cutover planning and go-live support. Aviation technology programmes are complex, high-stakes and operationally sensitive. Our PMO advisory is grounded in deep aviation operational knowledge as well as programme management expertise.",
+  "governance_heading": "Programme Governance",
+  "governance_body": "Effective programme governance is the foundation of successful delivery. AeroExpert establishes governance frameworks that provide clear accountability, decision-making authority, escalation paths and reporting structures — ensuring your programme has the oversight it needs without creating bureaucracy that slows delivery.",
+  "vendor_heading": "Vendor Management",
+  "vendor_body": "Aviation technology vendors must be held accountable to their contractual commitments. AeroExpert provides vendor management support — tracking delivery against plan, managing change requests, escalating issues and ensuring vendors remain focused on your programme's success.",
+  "rfp_heading": "RFP Oversight",
+  "rfp_body": "Where a programme includes technology procurement, AeroExpert provides PMO oversight of the RFP process — ensuring requirements are complete, evaluation is rigorous and the procurement timeline is managed effectively. See our Procurement Advisory page for the full procurement lifecycle.",
+  "risk_heading": "Risk Management",
+  "risk_body": "Aviation technology programmes carry significant operational, commercial and technical risk. AeroExpert maintains a structured risk register, facilitates risk workshops, develops mitigation plans and ensures risks are escalated and managed at the appropriate level.",
+  "testing_heading": "Testing & Quality Assurance",
+  "testing_body": "Testing is one of the most critical and frequently underestimated phases of an aviation technology programme. AeroExpert advises on test strategy, test planning, UAT design, defect management and the acceptance criteria needed to confirm a system is ready for operational use.",
+  "cutover_heading": "Cutover Planning",
+  "cutover_body": "Cutover from a legacy system to a new platform is the highest-risk moment in any aviation technology programme. AeroExpert develops detailed cutover plans, rehearsal schedules, go/no-go criteria and contingency procedures — ensuring your organisation is prepared for every scenario.",
+  "golive_heading": "Go-Live Support",
+  "golive_body": "The period immediately after go-live is operationally critical. AeroExpert provides hypercare support — monitoring system performance, managing issues, coordinating vendor response and ensuring operational teams have the support they need to stabilise the new system.",
+  "who_heading": "Who This Is For",
+  "who": "Airlines, airports and aviation organisations implementing significant technology programmes — including PSS migrations, EFB deployments, airport system replacements and digital transformation programmes.",
+  "closing": "To discuss your programme governance requirements, contact us.",
+  "faq_heading": "Aviation Technology PMO — Frequently Asked Questions",
+  "faq": [
+    {
+      "id": "f1",
+      "q": "What is an aviation technology PMO?",
+      "a": "An aviation technology PMO (Programme Management Office) provides independent governance, oversight and delivery support for complex aviation technology programmes. It establishes governance structures, manages vendor relationships, tracks risks and issues, oversees testing, and ensures the programme delivers to time, cost and quality. AeroExpert provides independent PMO services for airlines and airports in the UAE and Middle East."
+    },
+    {
+      "id": "f2",
+      "q": "Why do aviation technology programmes need independent PMO support?",
+      "a": "Aviation technology programmes are operationally sensitive, technically complex and commercially high-stakes. Vendor-provided project management has an inherent conflict of interest — the vendor's priority is to protect their own commercial position. An independent PMO acts solely in the client's interest: holding vendors accountable, managing risk objectively and ensuring the programme delivers what the organisation actually needs."
+    },
+    {
+      "id": "f3",
+      "q": "What is cutover planning in an aviation technology programme?",
+      "a": "Cutover is the transition from a legacy system to a new platform — the highest-risk moment in any aviation technology programme. Cutover planning covers the detailed sequence of activities, data migration steps, parallel running arrangements, go/no-go criteria, contingency procedures and the operational support needed to stabilise the new system. AeroExpert develops and manages cutover plans for PSS migrations, EFB deployments and airport system replacements."
+    },
+    {
+      "id": "f4",
+      "q": "How does aviation IT project management differ from general IT project management?",
+      "a": "Aviation IT project management requires deep understanding of aviation operational constraints — 24/7 operations, regulatory requirements, safety management obligations, the complexity of airline and airport system integrations, and the consequences of system failures on passengers and operations. Generic IT project management methodologies must be adapted to these realities. AeroExpert's PMO advisory combines programme management expertise with deep aviation operational knowledge."
+    },
+    {
+      "id": "f5",
+      "q": "What is hypercare and why is it important after go-live?",
+      "a": "Hypercare is the intensive support period immediately after a new system goes live — typically two to four weeks — during which the implementation team remains on-site or on-call to resolve issues, support operational teams and manage vendor response. Without effective hypercare, post-go-live issues can escalate into operational disruptions. AeroExpert provides hypercare planning and on-site support for aviation technology go-lives."
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "eyebrow": "Industries",
+  "title": "Aviation Technology Consulting for Airlines",
+  "intro": "AeroExpert provides independent aviation technology consulting to commercial airlines of all sizes — from full-service network carriers and low-cost operators to charter airlines and hybrid carriers. We advise on the technology systems that underpin airline commercial operations, flight operations, safety and digital transformation.",
+  "services_heading": "How We Support Airlines",
+  "services": [
+    {
+      "id": "s1",
+      "title": "Passenger Service Systems",
+      "desc": "PSS strategy, vendor selection, migration and optimisation — the core commercial system for every airline.",
+      "href": "/passenger-service-system-consulting"
+    },
+    {
+      "id": "s2",
+      "title": "Flight Operations Technology",
+      "desc": "EFB, flight planning, crew management, OCC and flight data monitoring — the systems that keep operations safe and efficient.",
+      "href": "/flight-operations-systems"
+    },
+    {
+      "id": "s3",
+      "title": "Revenue Management",
+      "desc": "RM system selection, process design and the transition to modern offer/order-based retailing.",
+      "href": "/airline-revenue-management-consulting"
+    },
+    {
+      "id": "s4",
+      "title": "NDC & ONE Order",
+      "desc": "Modern airline retailing strategy, NDC implementation and ONE Order transition planning.",
+      "href": "/airline-ndc-one-order-consulting"
+    },
+    {
+      "id": "s5",
+      "title": "Cybersecurity",
+      "desc": "Specialist aviation cybersecurity risk assessment, maturity assessment and IT governance.",
+      "href": "/cybersecurity"
+    },
+    {
+      "id": "s6",
+      "title": "Digital Transformation",
+      "desc": "Digital maturity assessment, technology roadmap, legacy modernisation and AI use cases.",
+      "href": "/digital-transformation"
+    }
+  ],
+  "closing": "To discuss your airline's technology requirements, contact us."
+}
